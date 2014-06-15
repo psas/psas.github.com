@@ -17,9 +17,9 @@ most sophisticated amateur rocket avionics systems in the world.
 
 Here are a couple of our sites hosted on github:
 
- - [Launch procdure book](/procedure-book/)
+ - [Launch procedure book](/procedure-book/)
  - [Some research scratchpads](/research-notebooks/)
-
+ - [Rocket manufacturing process](/mme-capstone/)
 
 And some important repos:
 
