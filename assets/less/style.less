@@ -24,7 +24,6 @@
 @screen-lg:                  1300px;
 
 @import "bootstrap.less";
-@import "buttons.less";
 
 
 // Sticky Footer
@@ -37,7 +36,7 @@ body { margin: 0; margin-bottom: @footer-height; }
     border-top: 4px solid @psas-dark-green;
     background: @gray-lighter url(/assets/img/noise.gif) repeat;
     border-bottom: 1px solid #c8c8c8;
-    padding: 33px 0 10px 0;
+    padding: 33px 0 0 0;
 }
 #header .brand {
     font-size: 24px;
@@ -58,11 +57,19 @@ body { margin: 0; margin-bottom: @footer-height; }
     #header .brand span { display: none; }
 }
 
-#navigation { list-style: none; padding-left: 0; }
-#navigation>li { display: block; float: left; }
+#navigation { background: @super-light; height: 40px; border-top: 1px dashed #ccc; }
+#navigation ul { .container(); list-style: none; padding-left: 0; }
+#navigation ul>li { display: block; float: left; margin-left: 16px; padding-top: 8px;}
+#navigation ul>li>a { color: #444; font-weight: 700; text-shadow: 0px 1px 1px #bbb; padding-right: 16px; border-right: 1px dotted #ccc; }
+
 
 // Content
 .leader { .container(); }
 
 // Footer
-#footer { background: #eee; }
+#footer { background: #eee; color: #777; font-size: 11px; padding-top: 40px; }
+#footer a { color: lighten(#777, 10%); text-decoration: underline; }
+#footer a:hover { color: darken(#777, 30%); }
+#site-info { .container(); }
+.info { .make-md-column(3); .make-xs-column(6);  }
+
