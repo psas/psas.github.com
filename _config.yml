@@ -1,1 +1,6 @@
+url: http://psas.pdx.edu
+
 exclude: ['Makefile', 'README.markdown', 'assets/less', 'assets/vendor/bootstrap']
+timezone:   America/Los_Angeles
+markdown:   kramdown
+
