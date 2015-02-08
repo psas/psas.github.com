@@ -1,1 +1,1 @@
-exclude: [README.markdown]
+exclude: ['Makefile', 'README.markdown', 'assets/less', 'assets/vendor/bootstrap']
