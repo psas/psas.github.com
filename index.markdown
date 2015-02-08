@@ -77,9 +77,28 @@ title: PSAS Rockets
  </script>
 </div>
 
-<div class="leader" markdown="1">
+<div class="content leader" markdown="1">
 **PSAS** is a student aerospace engineering project at
 [Portland State University](http://www.pdx.edu/).
 We're building ultra-low-cost, open source rockets that feature some of the
 most sophisticated amateur rocket avionics systems in the world.
 </div>
+
+<div class="content intro" markdown="1">
+Our long term goal at Portland State Aerospace Society is to put a
+[tiny satellite](http://oresat.org/) into orbit. This is very
+ambitious&mdash;there are so many technical, financial, and legal
+challenges that we may never never get there! However, this goal
+clarifies our intent and allows us to ask, "Where do we start?"
+
+The answer is that we focus on small, ongoing projects which move us toward
+our long-term goal. We build everything ourselves from the ground up and our
+work necessarily touches all aspects of aerospace engineering. Our rockets are
+in the amateur classification: smaller than commercial but larger than model
+rockets. We haven't built the biggest or highest-altitude amateur rocket, but
+we hope we're building one of the most sophisticated.
+
+Meetings take place almost every **Tuesday at 7pm at PSU**. Come join us anytime!
+See our Schedule section for detailed information on the where and when we meet.
+</div>
+

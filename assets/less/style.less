@@ -10,18 +10,17 @@
 @import "../vendor/bootstrap/less/variables.less";
 
 // Typography
-@font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-@font-size-base:          16px;
-@headings-font-family:    inherit;
-@headings-font-weight:    400;
+@font-family-sans-serif:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@font-size-base:        16px;
+@headings-font-family:  inherit;
+@headings-font-weight:  400;
 
-@brand-primary: @psas-light-green;
-@link-color: #00f;
-
-@screen-xs:                  480px;
-@screen-sm:                  768px;
-@screen-md:                  992px;
-@screen-lg:                  1300px;
+@brand-primary:         @psas-light-green;
+@link-color:            #4183c4;
+@screen-xs:             480px;
+@screen-sm:             768px;
+@screen-md:             992px;
+@screen-lg:             1300px;
 
 @import "bootstrap.less";
 
@@ -69,8 +68,8 @@ body { margin: 0; margin-bottom: @footer-height; }
 
 
 // Content
-.leader { .container(); }
-
+.leader { font-size: 20px; margin-top: 130px; margin-bottom: 30px; }
+.content { .container(); }
 // Footer
 #footer { background: #eee; color: #777; font-size: 11px; padding-top: 40px; }
 #footer a { color: lighten(#777, 10%); text-decoration: underline; }
