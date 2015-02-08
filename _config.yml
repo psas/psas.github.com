@@ -1,5 +1,19 @@
 url: http://psas.pdx.edu
 
-exclude: ['Makefile', 'README.markdown', 'assets/less', 'assets/vendor/bootstrap']
+exclude: ['Makefile', 'README.markdown', 'assets/less',
+    'assets/vendor/bootstrap',
+    'assets/vendor/jssor/bower.json',
+    'assets/vendor/jssor/demos-jquery',
+    'assets/vendor/jssor/demos-no-jquery',
+    'assets/vendor/jssor/examples-jquery',
+    'assets/vendor/jssor/examples-no-jquery',
+    'assets/vendor/jssor/img',
+    'assets/vendor/jssor/skin',
+    'assets/vendor/jssor/tool',
+    'assets/vendor/jssor/transition-builder',
+    'assets/vendor/jssor/transitions',
+    'assets/vendor/jssor/README.md',
+    'assets/vendor/jssor/readme.txt',
+]
 timezone: America/Los_Angeles
 markdown: kramdown
