@@ -1,11 +1,31 @@
 // Variables:
-@footer-height: 100px;
+@footer-height: 200px;
+@header-hight: 80px;
+
+@super-light:       #f7f8fa;
+@psas-light-green:  #6a7f10;
+@psas-dark-green:   #363f09;
+@psas-red:          #a33f1f;
 
 @import "../vendor/bootstrap/less/variables.less";
 
+// Typography
+@font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@font-size-base:          16px;
+@headings-font-family:    inherit;
+@headings-font-weight:    400;
 
+@brand-primary: @psas-light-green;
+@link-color: #00f;
+
+@screen-xs:                  480px;
+@screen-sm:                  768px;
+@screen-md:                  992px;
+@screen-lg:                  1300px;
 
 @import "bootstrap.less";
+@import "buttons.less";
+
 
 // Sticky Footer
 html { position: relative; min-height: 100%; }
@@ -13,10 +33,36 @@ body { margin: 0; margin-bottom: @footer-height; }
 #footer { position: absolute; left: 0; bottom: 0; height: @footer-height; width: 100%; }
 
 // Header
-#header { background: #fcf; }
-#header .brand { padding: 5px 0 0 60px; height: 70px; margin-top: 0; background: url('/images/psas.svg') top left no-repeat; }
+#header {
+    border-top: 4px solid @psas-dark-green;
+    background: @gray-lighter url(/assets/img/noise.gif) repeat;
+    border-bottom: 1px solid #c8c8c8;
+    padding: 33px 0 10px 0;
+}
+#header .brand {
+    font-size: 24px;
+    font-weight: 400;
+    color: #585858;
+    letter-spacing: 0.06em;
+    word-spacing: 0.5em;
+    margin-left: 12px;
+    text-shadow: 0px 1px 1px #fff;
+    padding: (@header-hight / 2px - 12px) 0 0 (@header-hight + 15px);
+    height: @header-hight;
+    margin-top: 0;
+    background: url('/assets/img/psas.svg') top left no-repeat;
+    background-size: @header-hight;
+}
 
 @media (max-width: @screen-xs) {
     #header .brand span { display: none; }
-    #header .brand:after { content: "PSAS"; }
 }
+
+#navigation { list-style: none; padding-left: 0; }
+#navigation>li { display: block; float: left; }
+
+// Content
+.leader { .container(); }
+
+// Footer
+#footer { background: #eee; }

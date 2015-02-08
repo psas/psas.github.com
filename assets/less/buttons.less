@@ -1,0 +1,55 @@
+.btn {
+    margin-top: 8px;
+    margin-right: 6px;
+    padding: 7px 14px;
+    font-size: 14px;
+    line-height: 100%;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+    color: #fff;
+    display:inline-block;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.1s ease-in-out;
+    -webkit-transition: background 0.1s ease-in-out;
+    -moz-transition: background 0.1s ease-in-out;
+    -ms-transition: background 0.1s ease-in-out;
+    -o-transition: background 0.1s ease-in-out;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+    color: #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.btn:active {
+    padding-top: 8px;
+    margin-bottom: -1px;
+}
+.btn, .btn:hover, .btn:active {
+    outline: 0 none;
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-main {
+    background-color: @psas-light-green;
+    box-shadow: 0px 3px 0px 0px @psas-dark-green;
+}
+.btn-main:hover {
+    background-color: darken(@psas-light-green, 5%);
+}
+.btn-main:active {
+    box-shadow: 0px 1px 0px 0px darken(@psas-light-green, 18%);
+}
+
+.btn-red {
+    background-color: @psas-red;
+    box-shadow: 0px 3px 0px 0px darken(@psas-red, 18%);
+}
+.btn-red:hover {
+    background-color: darken(@psas-red, 5%);
+}
+.btn-red:active {
+    box-shadow: 0px 1px 0px 0px darken(@psas-red, 18%);
+}

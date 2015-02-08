@@ -2,21 +2,39 @@
 layout: base
 ---
 <div id="header">
-  <h1 class="brand"><span>Portland State Aerospace Society</span></h1>
-  <div id="navigation">
-    <ul>
-      <li>About</li>
-      <li>Rockets</li>
-      <li>Launches</li>
-      <li>News</li>
+  <div class="container">
+    <h1 class="brand"><span>Portland State Aerospace Society</span></h1>
+    <ul id="navigation">
+        <li><a href="" class="btn btn-main">About PSAS</a></li>
+        <li><a href="" class="btn btn-main">Rockets</a></li>
+        <li><a href="" class="btn btn-main">Launches</a></li>
+        <li><a href="" class="btn btn-main">Open Source</a></li>
+        <li><a href="" class="btn btn-main">News</a></li>
+        <li><a href="" class="btn btn-main">Sponsor</a></li>
+        <li><a href="" class="btn btn-main">Contact</a></li>
     </ul>
   </div>
 </div>
 <div id="psas">
-  <div>
     {{ content }}
-  </div>
 </div>
 <div id="footer">
-  footer
+  <div id="site-info">
+    &copy; {{ site.time | date: '%Y' }} Portland State Aerospace Society. Our rockets and our content is availible under GPL v3 License.
+    <div class="info">
+      <ul>
+        <li><a href="">About PSAS</a></li>
+        <li><a href="">Rockets</a></li>
+        <li><a href="">Launches</a></li>
+        <li><a href="">Open Source</a></li>
+      </ul>
+    </div>
+    <div class="info">
+      <ul>
+        <li><a href="">Contact</a></li>
+        <li><a href="">Sponsorship</a></li>
+      </ul>
+    </div>
+
+  </div>
 </div>
