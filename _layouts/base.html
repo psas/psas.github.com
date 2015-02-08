@@ -2,14 +2,10 @@
 <html lang="en">
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Portland State Aerospace Society Github pages">
-  {% capture lvl %}{{ page.url | append:'index.html' | split:'/' | size }}{% endcapture %}
-  {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
+  <meta name="description" content="Portland State Aerospace Society">
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
-  <link href="{{ relative }}resources/css/bootstrap.min.css" rel="stylesheet">
-  <link href="{{ relative }}resources/css/style.css" rel="stylesheet">
+  <link href="/assets/style.css" rel="stylesheet">
   <title>{{ page.title }}</title>
  </head>
  <body>
