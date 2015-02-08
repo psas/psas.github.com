@@ -1,3 +1,6 @@
 [submodule "assets/vendor/bootstrap"]
 	path = assets/vendor/bootstrap
 	url = https://github.com/twbs/bootstrap.git
+[submodule "assets/vendor/jssor"]
+	path = assets/vendor/jssor
+	url = https://github.com/jssor/slider.git
