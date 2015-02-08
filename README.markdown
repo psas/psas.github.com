@@ -1,3 +1,3 @@
-# <http://psas.github.io>
+# <http://psas.pdx.edu>
 
-Github hosted page. Links to other github projects.
+The PSAS website

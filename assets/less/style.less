@@ -11,3 +11,12 @@
 html { position: relative; min-height: 100%; }
 body { margin: 0; margin-bottom: @footer-height; }
 #footer { position: absolute; left: 0; bottom: 0; height: @footer-height; width: 100%; }
+
+// Header
+#header { background: #fcf; }
+#header .brand { padding: 5px 0 0 60px; height: 70px; margin-top: 0; background: url('/images/psas.svg') top left no-repeat; }
+
+@media (max-width: @screen-xs) {
+    #header .brand span { display: none; }
+    #header .brand:after { content: "PSAS"; }
+}
