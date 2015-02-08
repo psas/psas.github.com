@@ -9,7 +9,6 @@ preview:
 	jekyll serve --watch
 
 theme:
-	#cp assets/lib/bootstrap/js/dropdown.js assets/js/
 	lessc --clean-css $(LESS) > assets/style.css
 
 themedev:
