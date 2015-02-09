@@ -102,3 +102,52 @@ Meetings take place almost every **Tuesday at 7pm at PSU**. Come join us anytime
 See our Schedule section for detailed information on the where and when we meet.
 </div>
 
+<div class="dark" markdown="1"><div class="content" markdown="1">
+
+## Upcoming Launch
+
+We're busy preparing for **[Launch 12](https://github.com/psas/Launch-12)**
+
+This launch will be on our LV2.3 airframe and include a full featured flight
+computer. We hope to run two very important experiments: A roll-control
+algorithm running inside our modern flight computer stack, and a raw GPS
+RF receiver that will collect import data for future GPS experiments. 
+
+![rocket](/images/launch_12.png)
+
+### L-12 Objectives
+
+ 1. **Launch** our LV2.3 airframe fall 2014
+ 1. **Successful flight** to at least 75% of projected altitude; recover all hardware intact.
+ 1. **Telemetry**
+   - get data from:
+      - Inertial sensors
+      - Events (e.g., 'launch')
+      - Commands
+   - Record telemetry on rocket
+   - Live stream telemetry to ground
+   - Record on the ground
+   - Real time display on ground
+   - Record on data creating device
+ 1. **Ground Support**
+   - Remote, safe, digital ignition control
+   - Effective recovery
+      - Coordination between recovery teams and mission control
+      - Know rocket location immediately after landing
+      - Easy transportation back to flight line
+ 1. **Experiments**
+   - Roll control
+      - Documented algorithm and analysis
+      - Include control data in telemetry
+   - Record raw GPS RF environment to SD card
+   - Digital Video
+      - Downward facing camera
+      - Record locally
+      - Live digital feed of camera to ground in integrated telemetry stream
+      - Record on ground
+      - Secondary upward facing camera
+      - Real time ground display
+
+## Projected Launch Date: June 21st 2015
+
+</div></div>
