@@ -159,10 +159,10 @@ We can't do this alone. Over the years we've been able to work with great
 companies, many here in Portland.
 
 <div class="sponsors"  markdown="1">
-
  - [![NASA](/images/logos/nasa.png)](http://spacegrant.oregonstate.edu/)
  - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
  - [![Solidworks](/images/logos/solidworks.png)](http://solidworks.com)
+ - [![github](/images/logos/github.png)](https://github.com)
  - [![NWEMC](/images/logos/nwemc.png)](http://www.nwemc.com/)
  - [![AntennaSys](/images/logos/antennasys.png)](http://www.antennasys.com/)
  - [![PowerStream](/images/logos/powerstream.png)](http://www.powerstream.com/)
