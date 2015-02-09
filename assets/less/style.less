@@ -68,15 +68,21 @@ body { margin: 0; margin-bottom: @footer-height; }
 
 
 // Content
+#psas { padding-bottom: 40px; }
 .leader { font-size: 20px; margin-top: 130px; margin-bottom: 30px; }
 .content { .container(); }
 .dark { background: #555; color: #eee; }
 .content p>img { .img-responsive(); }
+
+.sponsors { .row(); }
+.sponsors ul { list-style: none; }
+.sponsors li { .make-md-column(2); .make-xs-column(4); }
+.sponsors img { height: 100px; }
 
 // Footer
 #footer { background: #eee; color: #777; font-size: 11px; padding-top: 40px; }
 #footer a { color: lighten(#777, 10%); text-decoration: underline; }
 #footer a:hover { color: darken(#777, 30%); }
 #site-info { .container(); }
-.info { .make-md-column(3); .make-xs-column(6);  }
+.info { .make-md-column(3); .make-xs-column(4);  }
 

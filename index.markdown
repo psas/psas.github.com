@@ -151,3 +151,30 @@ RF receiver that will collect import data for future GPS experiments.
 ## Projected Launch Date: June 21st 2015
 
 </div></div>
+
+<div class="content" markdown="1">
+## Sponsors
+
+We can't do this alone. Over the years we've been able to work with great
+companies, many here in Portland.
+
+<div class="sponsors"  markdown="1">
+
+ - [![NASA](/images/logos/nasa.png)](http://spacegrant.oregonstate.edu/)
+ - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
+ - [![Solidworks](/images/logos/solidworks.png)](http://solidworks.com)
+ - [![NWEMC](/images/logos/nwemc.png)](http://www.nwemc.com/)
+ - [![AntennaSys](/images/logos/antennasys.png)](http://www.antennasys.com/)
+ - [![PowerStream](/images/logos/powerstream.png)](http://www.powerstream.com/)
+ - [![Sunstone](/images/logos/sunstone.png)](http://www.sunstone.com/)
+ - [![Screaming Circuits](/images/logos/screamingc.png)](http://www.screamingcircuits.com/)
+ - [![Custom Circuit Boards](/images/logos/customb.png)](http://www.customcircuitboards.com/)
+ - [![GPS Source](/images/logos/gpssource.png)](http://gpssource.com/)
+
+</div>
+
+Please don't hesitate to [get in touch](/contact/) if you're interested in helping
+the next generation of rocket scientists.
+
+If you have the ability you can make a tax-deductible [donation](/sponsor/#donate) to our club.
+</div>
