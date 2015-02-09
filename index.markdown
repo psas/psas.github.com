@@ -170,11 +170,43 @@ companies, many here in Portland.
  - [![Screaming Circuits](/images/logos/screamingc.png)](http://www.screamingcircuits.com/)
  - [![Custom Circuit Boards](/images/logos/customb.png)](http://www.customcircuitboards.com/)
  - [![GPS Source](/images/logos/gpssource.png)](http://gpssource.com/)
-
 </div>
 
 Please don't hesitate to [get in touch](/contact/) if you're interested in helping
 the next generation of rocket scientists.
 
 If you have the ability you can make a tax-deductible [donation](/sponsor/#donate) to our club.
+
+## Open Source
+
+Nearly all of the rockets we make, code we write and circuits we design are
+published on the web. We track each and ever change made to every file with
+a [version control]() software called [git](http://git).
+
+[Github](https://github.com/) hosts all of our projects (called repositories)
+for free. Browse through our whole stack at
+[github.com/psas](https://github.com/psas).
+
+Dig into our files and read a lot more about how we're organised on our
+**[open source page](/open/)**.
+
+
+## Get Involved
+
+PSAS involves volunteers from all walks of life. You don't have to me a PSU
+student to come help out.
+
+Keep reading about what we're doing. Follow us on social media:
+
+ - [@pdxarospace](https://twitter.com/pdxaerospace)
+ - [facebook/pdxaerospace](https://facebook.com/pdxaerospace)
+ - [YouTube](https://www.youtube.com/user/PSASRockets)
+ - [Flickr](https://www.flickr.com/photos/pdxaerospace/)
+
+Come to an intro meeting, usually held the first Tuesday of the month at 6:00pm
+(check the schedule).
+
+Jump into github and look at some our issue lists. There are always so many
+things to fix!
+
 </div>
