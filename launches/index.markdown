@@ -5,19 +5,36 @@ title: PSAS - Launches
 
 # Launches
 
+{: .toc}
+ - [L-0: 1998, Monroe, WA](#launch0)
+ - [L-1: 1999, Eastern Oregon](#launch1)
+
+{: #launch0 .launch}
 ## **L-0** &mdash; June 7<sup>th</sup>, 1998
 
-Four Members of AESS, Andrew, Bjorn, Brian, and Glenn drove to Monroe, WA to
-launch the club's first rocket and payload package.
+First Launch for the newly formed PSAS club!
 
-#### Data:
+![PSAS 1998 at Launch 0](/images/L0_group.jpg)
 
- Rocket   | [LV0](/rockets/#lv0)
- Mass     | 5.53 kg
- Motor    | ?
- Altitude | 0.36 km
- Result   | Success! Rocket and some data were successfully recovered.
+#### Launch Data:
 
+ **Airframe**           | [LV0](/rockets/#lv0)
+ **Total Mass**         | 5.53 kg
+ **Motor**              | [J350](http://www.thrustcurve.org/motorsearch.jsp?id=269)
+  - _Propellent Mass_   | 0.36 kg
+  - _Propellent_        | Ammonium Perchlorate Composite
+  - _Avg. Thrust_       | 440 N
+  - _Burn Time_         | 1.5 s
+  - _Impulse_           | 670 Ns (3% J)
+ **Avionics**           | [AV0](/avionics/)
+ - _System Mass_        | ?
+ - _Processor_          | PIC16C73A
+ - _Telemetry_          | 300 baud Audio FSK
+ - _Bands_              | 426 MHz, 1 W
+ **Launch Site**        | [47.8455689, -122.0482612](/)
+ **Altitude**           | 0.36 km
+ **Peak Velocity**      | ? m/s
+ **Result**             | Success! The rocket and some data were successfully recovered.
 
 Overall the flight was successful. There were a few things that went wrong.
 The flight could have been more stable. We believe the instability was do to
@@ -36,7 +53,33 @@ clearly.
 
 --------------------------------------------------------------------------------
 
+
+
+
+{: #launch1 .launch}
 ## **L-1** &mdash; April 11<sup>th</sup>, 1999
+
+
+#### Launch Data:
+
+ **Airframe**           | [LV1](/rockets/#lv1)
+ **Total Mass**         | ? kg
+ **Motor**              | ?
+  - _Propellent Mass_   | ? kg
+  - _Propellent_        | Ammonium Perchlorate Composite
+  - _Avg. Thrust_       | ? N
+  - _Burn Time_         | ? s
+  - _Impulse_           | ? Ns
+ **Avionics**           | ?
+ - _System Mass_        | ?
+ - _Processor_          | PIC17C766
+ - _Telemetry_          | 19.2 kbs
+ - _Bands_              | ? MHz, ? W
+ **Launch Site**        | ?
+ **Altitude**           | ? km
+ **Peak Velocity**      | ? m/s
+ **Result**             | Success.
+
 
 ## L-2
 
