@@ -7,7 +7,7 @@ title: PSAS - Special Projects
 
 ## GPS
 
-Custom GPS
+Custom GPS. [Read more about GPS](gps/)
 
 
 ## Cylindrical Patch Antennas
