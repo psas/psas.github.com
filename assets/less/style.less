@@ -25,6 +25,15 @@
 @import "bootstrap.less";
 @import "buttons.less";
 
+.gradient (@startColor: #eee, @endColor: white) {
+	background-color: @startColor;
+	background: -webkit-gradient(linear, left top, left bottom, from(@startColor), to(@endColor) 30%);
+	background: -webkit-linear-gradient(top, @startColor, @startColor 28%, @endColor 30%);
+	background: -moz-linear-gradient(top, @startColor, @startColor 28%, @endColor 30%);
+	background: -ms-linear-gradient(top, @startColor, @startColor 28%, @endColor 30%);
+	background: -o-linear-gradient(top, @startColor, @startColor 28%, @endColor 30%);
+}
+
 // Sticky Footer
 html { position: relative; min-height: 100%; }
 body { margin: 0; margin-bottom: @footer-height; }
@@ -60,11 +69,20 @@ body { margin: 0; margin-bottom: @footer-height; }
 #navigation ul  { .container(); list-style: none; padding-left: 0; position: relative; }
 #navigation ul>li { display: block; float: left; padding-left: 16px; }
 #navigation .top>li { padding-top: 8px;}
-#navigation .top>li>a { color: #444; font-weight: 700; text-shadow: 0px 1px 1px #bbb; padding-right: 16px; border-right: 1px dotted #ccc; }
-#navigation .submenu { display: none; position: absolute; left: 0; top: 25px; padding-top: 20px; height: 60px;}
+#navigation .top>li>a, #navigation .here span { display: block; color: #444; font-weight: 700; text-shadow: 0px 1px 1px #bbb; padding-right: 16px; border-right: 1px dotted #ccc; }
+#navigation .here span { color: #aaa }
+#navigation .submenu {
+    display: none;
+    .gradient(rgba(0.9,0.9,0.9,0), @super-light);
+    position: absolute;
+    left: 0; top: 22px;
+    padding-top: 20px;
+    height: 54px;
+}
 #navigation .submenu a { color: #444; padding-top: 8px; padding-bottom: 15px; padding-right: 10px;}
 #navigation li:hover>a { color: #aaa; }
 #navigation li:hover .submenu { display: block; }
+#navigation .here .submenu { display: block; }
 
 // Slider
 #slider_container { background: #bbb; position: relative; top: 0px; left: 0px; width: 1200px; height: 500px; }

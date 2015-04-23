@@ -16,32 +16,45 @@
       </div>
       <div id="navigation">
         <ul class="top">
-            <li>
-                <a href="/rockets/">Rockets</a>
+          {% capture toplevel %}{{ page.path | split: "/" | first }}{% endcapture %}
+          {% if toplevel == 'rockets' %}
+            <li class="here"><span>Rockets</span>
+          {% else%}
+             <li><a href="/rockets/">Rockets</a>
+          {% endif %}
                 <ul class="submenu">
                     <li><a href="">LV0 <img src="/assets/img/lv0.svg" height="20"></a></li>
                     <li><a href="">LV1 <img src="/assets/img/lv1.svg" height="20"></a></li>
                     <li><a href="">LV2 <img src="/assets/img/lv2.svg" height="20"></a></li>
                 </ul>
             </li>
-            <li>
-                <a href="/launches/">Launches</a>
+          {% if toplevel == 'launches' %}
+            <li class="here"><span>Launches</span>
+          {% else%}
+             <li><a href="/launches/">Launches</a>
+          {% endif %}
                 <ul class="submenu">
                     <li><a href="">L-0</a></li>
                     <li><a href="">L-1</a></li>
                     <li><a href="">L-2</a></li>
                 </ul>
             </li>
-            <li>
-                <a href="/projects/">Projects</a>
+          {% if toplevel == 'projects' %}
+            <li class="here"><span>Projects</span>
+          {% else%}
+             <li><a href="/projects/">Projects</a>
+          {% endif %}
                 <ul class="submenu">
                     <li><a href="/open/">Open Source</a></li>
                     <li><a href="/avionics/">Avionics</a></li>
                     <li><a href="/projects/gps/">GPS</a></li>
                 </ul>
             </li>
-            <li>
-                <a href="/about/">About PSAS</a>
+          {% if toplevel == 'about' %}
+            <li class="here"><span>About PSAS</span>
+          {% else%}
+             <li><a href="/about/">About PSAS</a>
+          {% endif %}
                 <ul class="submenu">
                     <li><a href="/news/">News</a></li>
                     <li><a href="http://blog.psas.pdx.edu">Blog</a></li>
