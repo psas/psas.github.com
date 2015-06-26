@@ -85,6 +85,9 @@ most sophisticated amateur rocket avionics systems in the world.
 </div>
 
 <div class="content intro" markdown="1">
+<div class="row" markdown="1">
+
+<div class="col-md-6" markdown="1">
 Our long term goal at Portland State Aerospace Society is to put a
 [tiny satellite](http://oresat.org/) into orbit. This is very
 ambitious&mdash;there are so many technical, financial, and legal
@@ -101,6 +104,50 @@ we hope we're building one of the most sophisticated.
 Meetings take place almost every **Tuesday at 7pm at PSU**. Come join us anytime!
 See our Schedule section for detailed information on the where and when we meet.
 </div>
+
+<div class="col-md-6">
+
+<a class="twitter-timeline" href="https://twitter.com/pdxaerospace" data-widget-id="614519093572407296">Tweets by @pdxaerospace</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+
+</div>
+
+## Open Source
+
+Nearly all of the rockets we make, code we write and circuits we design are
+published on the web. We track each and ever change made to every file with
+a [version control]() software called [git](http://git).
+
+[Github](https://github.com/) hosts all of our projects (called repositories)
+for free. Browse through our whole stack at
+[github.com/psas](https://github.com/psas).
+
+Dig into our files and read a lot more about how we're organised on our
+**[open source page](/open/)**.
+
+
+## Get Involved
+
+PSAS involves volunteers from all walks of life. You don't have to me a PSU
+student to come help out.
+
+Keep reading about what we're doing. Follow us on social media:
+
+ - [@pdxarospace](https://twitter.com/pdxaerospace)
+ - [facebook/pdxaerospace](https://facebook.com/pdxaerospace)
+ - [YouTube](https://www.youtube.com/user/PSASRockets)
+ - [Flickr](https://www.flickr.com/photos/pdxaerospace/)
+
+Come to an intro meeting, usually held the first Tuesday of the month at 6:00pm
+(check the schedule).
+
+Jump into github and look at some our issue lists. There are always so many
+things to fix!
+
+</div>
+
 
 <div class="dark" markdown="1"><div class="content" markdown="1">
 
@@ -148,7 +195,7 @@ RF receiver that will collect import data for future GPS experiments.
       - Secondary upward facing camera
       - Real time ground display
 
-## Projected Launch Date: June 21st 2015
+## Projected Launch Date: July 19th 2015
 
 </div></div>
 
@@ -177,36 +224,5 @@ the next generation of rocket scientists.
 
 If you have the ability you can make a tax-deductible [donation](/sponsor/#donate) to our club.
 
-## Open Source
-
-Nearly all of the rockets we make, code we write and circuits we design are
-published on the web. We track each and ever change made to every file with
-a [version control]() software called [git](http://git).
-
-[Github](https://github.com/) hosts all of our projects (called repositories)
-for free. Browse through our whole stack at
-[github.com/psas](https://github.com/psas).
-
-Dig into our files and read a lot more about how we're organised on our
-**[open source page](/open/)**.
-
-
-## Get Involved
-
-PSAS involves volunteers from all walks of life. You don't have to me a PSU
-student to come help out.
-
-Keep reading about what we're doing. Follow us on social media:
-
- - [@pdxarospace](https://twitter.com/pdxaerospace)
- - [facebook/pdxaerospace](https://facebook.com/pdxaerospace)
- - [YouTube](https://www.youtube.com/user/PSASRockets)
- - [Flickr](https://www.flickr.com/photos/pdxaerospace/)
-
-Come to an intro meeting, usually held the first Tuesday of the month at 6:00pm
-(check the schedule).
-
-Jump into github and look at some our issue lists. There are always so many
-things to fix!
 
 </div>
