@@ -5,7 +5,7 @@ title: PSAS - About Us
 
 # About PSAS
 
-We're a rocket group
+We're a rocket group!
 
 ## History
 
