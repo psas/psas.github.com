@@ -22,8 +22,11 @@ we hope we're building one of the most sophisticated.
 Meetings take place almost every **Tuesday at 7pm at PSU**. Come join us anytime!
 See our Schedule section for detailed information on the where and when we meet.
 
+### Recent News:
+
 <a class="twitter-timeline" href="https://twitter.com/pdxaerospace" data-widget-id="614519093572407296">Tweets by @pdxaerospace</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
 
 ## Open Source
@@ -58,58 +61,22 @@ Come to an intro meeting, usually held the first Tuesday of the month at 6:00pm
 Jump into github and look at some our issue lists. There are always so many
 things to fix!
 
+
+
 ## Upcoming Launch
 
-We're busy preparing for **[Launch 12](https://github.com/psas/Launch-12)**
+We're working on a new rocket to launch in the summer of 2016. See
+[our coutdown page](https://psas.github.io/countdown/)
 
-This launch will be on our LV2.3 airframe and include a full featured flight
-computer. We hope to run two very important experiments: A roll-control
-algorithm running inside our modern flight computer stack, and a raw GPS
-RF receiver that will collect import data for future GPS experiments.
+### Projected Launch Date: Summer 2016
 
-![rocket](/images/launch_12.png)
-
-### L-12 Objectives
-
- 1. **Launch** our LV2.3 airframe fall 2014
- 1. **Successful flight** to at least 75% of projected altitude; recover all hardware intact.
- 1. **Telemetry**
-   - get data from:
-      - Inertial sensors
-      - Events (e.g., 'launch')
-      - Commands
-   - Record telemetry on rocket
-   - Live stream telemetry to ground
-   - Record on the ground
-   - Real time display on ground
-   - Record on data creating device
- 1. **Ground Support**
-   - Remote, safe, digital ignition control
-   - Effective recovery
-      - Coordination between recovery teams and mission control
-      - Know rocket location immediately after landing
-      - Easy transportation back to flight line
- 1. **Experiments**
-   - Roll control
-      - Documented algorithm and analysis
-      - Include control data in telemetry
-   - Record raw GPS RF environment to SD card
-   - Digital Video
-      - Downward facing camera
-      - Record locally
-      - Live digital feed of camera to ground in integrated telemetry stream
-      - Record on ground
-      - Secondary upward facing camera
-      - Real time ground display
-
-## Projected Launch Date: July 19th 2015
 
 ## Sponsors
 
 We can't do this alone. Over the years we've been able to work with great
 companies, many here in Portland.
 
-<div class="sponsors"  markdown="1">
+{: #sponsors}
  - [![NASA](/images/logos/nasa.png)](http://spacegrant.oregonstate.edu/)
  - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
  - [![Solidworks](/images/logos/solidworks.png)](http://solidworks.com)
@@ -121,7 +88,7 @@ companies, many here in Portland.
  - [![Screaming Circuits](/images/logos/screamingc.png)](http://www.screamingcircuits.com/)
  - [![Custom Circuit Boards](/images/logos/customb.png)](http://www.customcircuitboards.com/)
  - [![GPS Source](/images/logos/gpssource.png)](http://gpssource.com/)
-</div>
+
 
 Please don't hesitate to [get in touch](/contact/) if you're interested in helping
 the next generation of rocket scientists.
