@@ -1,93 +1,11 @@
 ---
-layout: frontpage
-title: PSAS Rockets
+layout: page
+title: Portland State Aerospace
+description: "**PSAS** is a student aerospace engineering project at [Portland State University](http://www.pdx.edu/). We're building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems in the world."
+image:
+  feature: Jun2013_launch.jpg
 ---
 
-<script src="/assets/vendor/jssor/js/jssor.slider.min.js"></script>
-<script>
-    jssor_slider1_starter = function (containerId) {
-        var options = { $AutoPlay: true };
-        var jssor_slider1 = new $JssorSlider$(containerId, options);
-
-        // responsive
-        function ScaleSlider() {
-            var bodyWidth = document.body.clientWidth;
-            if (bodyWidth)
-                jssor_slider1.$ScaleWidth(Math.min(bodyWidth, 1920));
-            else
-                $Jssor$.$Delay(ScaleSlider, 30);
-        }
-        ScaleSlider();
-        $Jssor$.$AddEvent(window, "load", ScaleSlider);
-        $Jssor$.$AddEvent(window, "resize", $Jssor$.$WindowResizeFilter(window, ScaleSlider));
-        $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
-    };
-
-</script>
-<div id="slider_container">
- <div class="slides" u="slides">
-
-  <div>
-   <img u="image" src="/images/slider_groupshot.jpg" />
-  </div>
-
-  <div>
-   <img u="image" src="/images/slider_launch.jpg" />
-   <div class="caption" u="caption" style="width: 345px;">
-        Launching Student Ambitions
-   </div>
-  </div>
-
-
-  <div>
-   <img u="image" src="/images/slider_code.png" />
-   <div class="caption" u="caption" style="width: 260px; left: 1000px;">
-        Open Source
-   </div>
-  </div>
-
-
-  <div>
-   <img u="image" src="/images/slider_hdlaunch.jpg" />
-   <div class="caption" u="caption" style="width: 330px;">
-        Flying Advanced Avionics
-   </div>
-  </div>
-
-
-  <div>
-   <img u="image" src="/images/slider_electronics.jpg" />
-   <div class="caption" u="caption" style="width: 400px;">
-        World Class Electrical Engineering
-   </div>
-  </div>
-
-
-  <div>
-   <img u="image" src="/images/slider_motor.jpg" />
-   <div class="caption" u="caption" style="width: 280px;">
-        3...2...1...Launch!
-   </div>
-  </div>
-
-
- </div>
- <script>
-    jssor_slider1_starter('slider_container');
- </script>
-</div>
-
-<div class="content leader" markdown="1">
-**PSAS** is a student aerospace engineering project at
-[Portland State University](http://www.pdx.edu/).
-We're building ultra-low-cost, open source rockets that feature some of the
-most sophisticated amateur rocket avionics systems in the world.
-</div>
-
-<div class="content intro" markdown="1">
-<div class="row" markdown="1">
-
-<div class="col-md-6" markdown="1">
 Our long term goal at Portland State Aerospace Society is to put a
 [tiny satellite](http://oresat.org/) into orbit. This is very
 ambitious&mdash;there are so many technical, financial, and legal
@@ -103,16 +21,10 @@ we hope we're building one of the most sophisticated.
 
 Meetings take place almost every **Tuesday at 7pm at PSU**. Come join us anytime!
 See our Schedule section for detailed information on the where and when we meet.
-</div>
-
-<div class="col-md-6">
 
 <a class="twitter-timeline" href="https://twitter.com/pdxaerospace" data-widget-id="614519093572407296">Tweets by @pdxaerospace</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-</div>
-
-</div>
 
 ## Open Source
 
@@ -146,11 +58,6 @@ Come to an intro meeting, usually held the first Tuesday of the month at 6:00pm
 Jump into github and look at some our issue lists. There are always so many
 things to fix!
 
-</div>
-
-
-<div class="dark" markdown="1"><div class="content" markdown="1">
-
 ## Upcoming Launch
 
 We're busy preparing for **[Launch 12](https://github.com/psas/Launch-12)**
@@ -158,7 +65,7 @@ We're busy preparing for **[Launch 12](https://github.com/psas/Launch-12)**
 This launch will be on our LV2.3 airframe and include a full featured flight
 computer. We hope to run two very important experiments: A roll-control
 algorithm running inside our modern flight computer stack, and a raw GPS
-RF receiver that will collect import data for future GPS experiments. 
+RF receiver that will collect import data for future GPS experiments.
 
 ![rocket](/images/launch_12.png)
 
@@ -197,9 +104,6 @@ RF receiver that will collect import data for future GPS experiments.
 
 ## Projected Launch Date: July 19th 2015
 
-</div></div>
-
-<div class="content" markdown="1">
 ## Sponsors
 
 We can't do this alone. Over the years we've been able to work with great
@@ -223,6 +127,3 @@ Please don't hesitate to [get in touch](/contact/) if you're interested in helpi
 the next generation of rocket scientists.
 
 If you have the ability you can make a tax-deductible [donation](/sponsor/#donate) to our club.
-
-
-</div>

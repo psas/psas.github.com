@@ -1,9 +1,8 @@
 ---
 layout: page
-title: PSAS - Launches
+title: Launches
+description: "All rocket launches to date"
 ---
-
-# Launches
 
 {: .toc}
  - [L-0: 1998, Monroe, WA](#launch0)
@@ -14,23 +13,23 @@ title: PSAS - Launches
 
 First Launch for the newly formed PSAS club!
 
-![PSAS 1998 at Launch 0](/images/L0_group.jpg)
+![PSAS 1998 at Launch 0](/images/lv0-group-rocket.jpg)
 
 #### Launch Data:
 
  **Airframe**           | [LV0](/rockets/#lv0)
  **Total Mass**         | 5.53 kg
  **Motor**              | [J350](http://www.thrustcurve.org/motorsearch.jsp?id=269)
-  - _Propellent Mass_   | 0.36 kg
-  - _Propellent_        | Ammonium Perchlorate Composite
-  - _Avg. Thrust_       | 440 N
-  - _Burn Time_         | 1.5 s
-  - _Impulse_           | 670 Ns (3% J)
+  - Propellent Mass     | 0.36 kg
+  - Propellent          | Ammonium Perchlorate Composite
+  - Avg. Thrust         | 440 N
+  - Burn Time           | 1.5 s
+  - Impulse             | 670 Ns (3% J)
  **Avionics**           | [AV0](/avionics/)
- - _System Mass_        | ?
- - _Processor_          | PIC16C73A
- - _Telemetry_          | 300 baud Audio FSK
- - _Bands_              | 426 MHz, 1 W
+ - System Mass          | ?
+ - Processor            | PIC16C73A
+ - Telemetry            | 300 baud Audio FSK
+ - Bands                | 426 MHz, 1 W
  **Launch Site**        | [47.8455689, -122.0482612](/)
  **Altitude**           | 0.36 km
  **Peak Velocity**      | ? m/s
@@ -65,16 +64,16 @@ clearly.
  **Airframe**           | [LV1](/rockets/#lv1)
  **Total Mass**         | ? kg
  **Motor**              | ?
-  - _Propellent Mass_   | ? kg
-  - _Propellent_        | Ammonium Perchlorate Composite
-  - _Avg. Thrust_       | ? N
-  - _Burn Time_         | ? s
-  - _Impulse_           | ? Ns
+  - Propellent Mass     | ? kg
+  - Propellent          | Ammonium Perchlorate Composite
+  - Avg. Thrust         | ? N
+  - Burn Time           | ? s
+  - Impulse             | ? Ns
  **Avionics**           | ?
- - _System Mass_        | ?
- - _Processor_          | PIC17C766
- - _Telemetry_          | 19.2 kbs
- - _Bands_              | ? MHz, ? W
+ - System Mass          | ?
+ - Processor            | PIC17C766
+ - Telemetry            | 19.2 kbs
+ - Bands                | ? MHz, ? W
  **Launch Site**        | ?
  **Altitude**           | ? km
  **Peak Velocity**      | ? m/s

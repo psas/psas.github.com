@@ -1,9 +1,11 @@
 ---
 layout: page
-title: PSAS - Special Projects
+title: Special Projects
+description: "A lot of work we do spans across many launches and many rockets. Many of our special projects come from deep needs in the aerospace world for solutions"
+image:
+  feature: slider_hdlaunch.jpg
 ---
 
-# Special Projects
 
 ## GPS
 

@@ -1,11 +1,8 @@
 ---
 layout: page
-title: PSAS - About Us
+title: About PSAS
+description: "**PSAS** is a student aerospace engineering project at [Portland State University](http://www.pdx.edu/)"
 ---
-
-# About PSAS
-
-We're a rocket group!
 
 ## History
 
