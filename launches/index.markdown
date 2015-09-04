@@ -2,14 +2,17 @@
 layout: page
 title: Launches
 description: "All rocket launches to date"
+image:
+  feature: slider_motor.jpg
 ---
 
-{: .toc}
- - [L-0: 1998, Monroe, WA](#launch0)
- - [L-1: 1999, Eastern Oregon](#launch1)
+List of Launches:
 
-{: #launch0 .launch}
-## **L-0** &mdash; June 7<sup>th</sup>, 1998
+* Table of Contents
+{:toc}
+
+
+## **L-0** — June 7th, 1998
 
 First Launch for the newly formed PSAS club!
 
@@ -50,13 +53,11 @@ the entire flight was captured at the ground station. The launch site,
 surrounding countryside, and approaching thunderstorm could all be seen
 clearly.
 
+
 --------------------------------------------------------------------------------
 
 
-
-
-{: #launch1 .launch}
-## **L-1** &mdash; April 11<sup>th</sup>, 1999
+## **L-1** — April 11th, 1999
 
 
 #### Launch Data:
@@ -98,6 +99,10 @@ clearly.
 
 ## L-10
 
-## L-11
+## **L-11** — July 20th, 2014
 
-## L-12?
+## **L-12** — July 19th, 2015
+
+## L-13?
+
+#### [Launch countdown](https://psas.github.io/countdown/)

@@ -10,3 +10,11 @@
 table { margin-bottom: 1.0em; }
 table td { padding-right: 2.0em; padding-bottom: 0.14em; }
 
+#markdown-toc { list-style: none; margin-left: 1.0em; }
+#markdown-toc li {
+    list-style: none;
+    margin-left: 20px;
+    padding-left: 0;
+    line-height: 1.1em;
+    margin-bottom: 10px;
+}

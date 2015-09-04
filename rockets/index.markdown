@@ -1,10 +1,22 @@
 ---
 layout: page
 title: Launch Vehicles
-description: "We've launched lots of rockets"
+description: "Rockets PSAS has built and flown"
 image:
-  feature: slider_motor.jpg
+  feature: launch_12.png
 ---
+
+List of rockets:
+
+* Table of Contents
+{:toc}
+
+
+# Why "LV"?
+
+LV stands for **L**aunch **V**ehicle, just a fancy name for "rocket". Each vehicle is numbered in order that we built it. The major number are the class of rocket. For instance every "LV2" rocket is of the same design (with minor adjustments or additions). Each minor division is a build of that design.
+
+In total PSAS has built 5 rockets. Most have flown many flights over the years. LV2.3 was our work horse rocket for 7 years.
 
 ## LV0
 
