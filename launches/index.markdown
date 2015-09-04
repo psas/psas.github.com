@@ -105,4 +105,4 @@ clearly.
 
 ## L-13?
 
-#### [Launch countdown](https://psas.github.io/countdown/)
+#### [Launch countdown](/countdown/)

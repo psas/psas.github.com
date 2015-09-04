@@ -9,6 +9,8 @@
 
 table { margin-bottom: 1.0em; }
 table td { padding-right: 2.0em; padding-bottom: 0.14em; }
+table thead { border-bottom: 1px solid #ccc; }
+table th { font-weight: bold; padding-bottom: 0.14em; }
 
 #markdown-toc { list-style: none; margin-left: 1.0em; }
 #markdown-toc li {
@@ -17,4 +19,12 @@ table td { padding-right: 2.0em; padding-bottom: 0.14em; }
     padding-left: 0;
     line-height: 1.1em;
     margin-bottom: 10px;
+}
+
+#countdown {
+    font-size: 4.4em;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 1.4em;
+    margin-bottom: 1.4em;
+    text-align: center;
 }
