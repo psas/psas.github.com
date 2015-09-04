@@ -1,3 +1,7 @@
 assets/style.css
 _site/
 .sass-cache
+
+
+# subsites, if symlinked in for testing.
+countdown
