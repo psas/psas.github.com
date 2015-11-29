@@ -12,6 +12,7 @@ owner:
   email:          info@psas.pdx.edu
   twitter:        pdxaerospace
   github:         psas
+  youtube:        PSASRockets
   location:       "Portland, Ore"
 
 exclude: ['Makefile', 'README.markdown']
@@ -20,7 +21,7 @@ timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown
-kramdown: 
+kramdown:
   toc_levels: "2,3"
 
 sass:
