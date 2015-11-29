@@ -36,9 +36,10 @@ As seen in:
 
 ### Follow Us Online
 
- - Github
- - blog
- - twitter
- - facebook
- - YouTube
- - flickr
+{: .list-with-icons}
+ - [![github.com/psas](/images/logos/github.png) github.com/psas](https://github.com/psas)
+ - [![psas](/images/psas.svg) PSAS blog](http://blog.psas.pdx.edu/)
+ - [![@pdxaerospace](/images/logos/twitter.png) twitter: @pdxaerospace](https://twitter.com/pdxaerospace)
+ - [![facebook.com/pdxaerospace](/images/logos/facebook.png) facebook.com/pdxaerospace](https://www.facebook.com/pdxaerospace)
+ - [![youtube.com/PSASRockets](/images/logos/youtube.png) youtube.com/PSASRockets](https://www.youtube.com/user/PSASRockets)
+ - [![flickr.com/photos/pdxaerospace](/images/logos/flickr.png) flickr.com/photos/pdxaerospace](https://www.flickr.com/photos/pdxaerospace)
