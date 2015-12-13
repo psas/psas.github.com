@@ -2,6 +2,8 @@
 layout: page
 title: About PSAS
 description: "**PSAS** is a student aerospace engineering project at [Portland State University's](http://www.pdx.edu/) [Maseeh College of Engineering and Computer Science](http://www.pdx.edu/mcecs). We're a 501c3 organization through the [PSU Foundation](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)."
+image:
+  feature: slider_groupshot.jpg
 ---
 
 Our long term goal is to put a _tiny satellite into orbit_. This is very ambitious---there are so many technical, financial, and legal challenges that we may never never get there! However, this goal clarifies our intent and allows us to ask, "Where do we start?"
