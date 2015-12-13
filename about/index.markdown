@@ -2,6 +2,8 @@
 layout: page
 title: About PSAS
 description: "**PSAS** is a student aerospace engineering project at [Portland State University](http://www.pdx.edu/)"
+image:
+  feature: slider_groupshot.jpg
 ---
 
 Our long term goal is to put a _tiny satellite into orbit_. This is very ambitious---there are so many technical, financial, and legal challenges that we may never never get there! However, this goal clarifies our intent and allows us to ask, "Where do we start?"
