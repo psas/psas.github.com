@@ -3,7 +3,7 @@ layout: page
 title: Get Involved
 description: Join us!
 image:
-  feature: slider_groupshot.jpg
+  feature: slider_meeting.jpg
 ---
 
 Come to a meeting!
