@@ -19,7 +19,11 @@ List of Launches:
 
 
 
+
+
 --------------------------------------------------------------------------------
+
+
 
 
 
@@ -43,15 +47,28 @@ List of Launches:
  **Peak Velocity**      | ~350 m/s (Mach 1.0)
  **Result**             | Success!
 
+[Launch data and tons of info on Github](https://github.com/psas/Launch-12)
 
-[All data on Github](https://github.com/psas/Launch-12)
+Launch 12 was similar to the Launch-11 flight, though with many improvements to the ground infrastructure.
 
-{% include youtube.html video="YUP2_m3gPiM"%}
+In 2015 PSAS participated in Intel's 'NUC Challenge' which allowed us to build an awesome permanent [mission control table](https://github.com/psas/flight-director-table) with many screens and a telemetry & control server.
+
+On board this rocket were two Raspberry Pi computers attached to HD video cameras. The intention was to stream video live, though the camera dedicated to streaming failed minutes before launch so we flew without it. The failure appears to have been withe the ribbon cable attaching the camera to the Raspi. Also launched was an important experimental GPS module built by PSAS. The rocket recoreded raw radio signals from GPS satellites while in flight in order to better understand the effects of rocket launches on GPS technology.
+
+This flight had a student designed control experiment that attempted to dampen the spin of the rocket so camera views on the rocket stay steady for the whole flight. This kept the spin rate to under 80 &deg;/s, as contrast to the previous flight wich saw peaks close to 1000 &deg;/s!
 
 [Launch 12 photo gallery on Flickr](https://www.flickr.com/photos/pdxaerospace/sets/72157651608105790)
 
+{% include youtube.html video="YUP2_m3gPiM"%}
+
+
+
+
 
 --------------------------------------------------------------------------------
+
+
+
 
 
 {: #L11}
