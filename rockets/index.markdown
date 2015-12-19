@@ -29,7 +29,7 @@ In total PSAS has built 5 rockets. Most have flown many flights over the years. 
   - Payload               | 1.2 m parachute
   - Body                  | 0.9 m parachute
  **Max Altitude**         | 0.3 km
- **Flights**              | 1: [L-0]()
+ **Flights**              | 1: [L-0](/launches/#L0)
 
 No flight sequencing computer. Separation and recovery handled by chemically timed motor ejection charge.
 
@@ -47,7 +47,7 @@ No flight sequencing computer. Separation and recovery handled by chemically tim
  - Payload                | three 1 m parachutes
  - Body                   |
  **Max Altitude**         | 3.7 km
- **Flights**              | 2: [L-1](), [L-2]()
+ **Flights**              | 2: [L-1](/launches/#L1), [L-2](/launches/#L2)
 
 
 Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by Interface Plate PIC
@@ -67,7 +67,7 @@ Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by In
  - Payload                | ?
  - Body                   | ?
  **Max Altitude**         | 5.5 km
- **Flights**              | 2: [L-3](), [L-5]()
+ **Flights**              | 2: [L-3](/launches/#L3), [L-5](/launches/#L5)
 
 
 --------------------------------------------------------------------------------
@@ -84,7 +84,7 @@ Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by In
  - Payload                | ?
  - Body                   | ?
  **Max Altitude**         | 0 km :(
- **Flights**              | 1: [L-4]()
+ **Flights**              | 1: [L-4](/launches/#L4)
 
 
 --------------------------------------------------------------------------------
@@ -95,8 +95,12 @@ Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by In
 
 ![LV2.2](/images/lv2.2.svg)
 
- **Max Altitude**         | 5.2 km
- **Flights**              | 7: [L-6](), [L-7](), [L-8](), [L-9](), [L-10](), [L-11](), [L-12]()
+**Length**                | 3.35 m
+**Empty Mass**            | ~20 kg
+**Airframe Materials**    | Modular aluminum body sections, fiberglass aeroshell
+ **Max Altitude**         | 5.0 km
+ **Flights**              | 7: [L-6](/launches/#L6), [L-7](/launches/#L7), [L-8](/launches/#L8), [L-9](/launches/#L9), [L-10](/launches/#L10), [L-11](/launches/#L11), [L-12](/launches/#L12)
+
 
 
 --------------------------------------------------------------------------------

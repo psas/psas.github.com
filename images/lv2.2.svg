@@ -14,7 +14,7 @@
    id="svg3136"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="lv2.svg">
+   sodipodi:docname="lv2.2.svg">
   <defs
      id="defs3138" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.797619"
-     inkscape:cx="173.19256"
-     inkscape:cy="28.846152"
+     inkscape:zoom="1.8359375"
+     inkscape:cx="256"
+     inkscape:cy="30"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -85,7 +85,7 @@
          inkscape:connector-curvature="0" />
       <path
          id="path2971"
-         d="m 581.75872,609.91261 -19.76988,0"
+         d="m 581.75872,603.87991 -19.76988,0"
          style="fill:none;stroke:#9d9d9d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
@@ -96,17 +96,17 @@
          inkscape:connector-curvature="0" />
       <path
          id="path2917"
-         d="m 582.12768,744.32985 5.25829,8.97601 -5.25829,-0.12823"
+         d="m 582.12768,751.63632 5.25829,8.97601 -5.25829,-0.12823"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path2917-0"
-         d="m 561.79984,744.45808 -5.25829,8.97601 5.25829,-0.12824"
+         d="m 561.79984,751.76455 -5.25829,8.97601 5.25829,-0.12824"
          style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path2941"
-         d="m 571.99578,744.0734 0,8.46309"
+         d="m 571.99578,751.37987 0,8.46309"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
@@ -126,5 +126,25 @@
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       style="opacity:1;fill:#bd3016;fill-opacity:1;stroke:none;stroke-width:0.80116618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6.4726391,1018.1216 90.2466579,0 0,8.4147 -90.2466579,0 z"
+       id="rect4283" />
+    <path
+       style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:#c2c2c2;stroke-width:0.70000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.340096,1016.4553 38.330524,0 0,11.4634 -38.330524,0 z"
+       id="rect4302" />
+    <path
+       style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:#c2c2c2;stroke-width:0.70000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 163.19849,1016.6479 38.33052,0 0,11.4634 -38.33052,0 z"
+       id="rect4302-7" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#5d826b;stroke-width:0.49999994;stroke-miterlimit:4;stroke-dasharray:0.49999998, 0.49999998;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 211.98728,1017.1326 28.84071,0 c 1.54778,0 2.79383,1.2461 2.79383,2.7939 l 0,5.122 c 0,1.5478 -1.24605,2.7938 -2.79383,2.7938 l -28.84071,0 c -1.54778,0 -2.79383,-1.246 -2.79383,-2.7938 l 0,-5.122 c 0,-1.5478 1.24605,-2.7939 2.79383,-2.7939 z"
+       id="rect4285-8" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#5d826b;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:0.49999999, 0.49999999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 248.0948,1017.8232 2.99244,0 c 1.29253,0 2.33309,1.0405 2.33309,2.3331 l 0,4.2773 c 0,1.2925 -1.04056,2.3331 -2.33309,2.3331 l -2.99244,0 c -1.29253,0 -2.33308,-1.0406 -2.33308,-2.3331 l 0,-4.2773 c 0,-1.2926 1.04055,-2.3331 2.33308,-2.3331 z"
+       id="rect4285-8-6" />
   </g>
 </svg>
