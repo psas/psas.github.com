@@ -24,9 +24,11 @@ See our Schedule section for detailed information on the where and when we meet.
 
 ### Recent News:
 
-<a class="twitter-timeline" href="https://twitter.com/pdxaerospace" data-widget-id="614519093572407296">Tweets by @pdxaerospace</a>
+<a class="twitter-timeline" href="https://twitter.com/pdxaerospace"
+    data-widget-id="614519093572407296"
+    data-tweet-limit="5"
+    width="520">Tweets by @pdxaerospace</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
 
 
 ## Open Source
@@ -35,12 +37,10 @@ Nearly all of the rockets we make, code we write and circuits we design are
 published on the web. We track each and ever change made to every file with
 a [version control]() software called [git](http://git).
 
-[Github](https://github.com/) hosts all of our projects (called repositories)
-for free. Browse through our whole stack at
-[github.com/psas](https://github.com/psas).
+[Github](https://github.com/) hosts all of our projects (called repositories). Browse through our whole stack at [github.com/psas](https://github.com/psas).
 
 Dig into our files and read a lot more about how we're organised on our
-**[open source page](/open/)**.
+**[projects page](/projects/)**.
 
 
 ## Get Involved
