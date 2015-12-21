@@ -76,7 +76,7 @@ We're working on a new rocket to launch in the summer of 2016. See
 We can't do this alone. Over the years we've been able to work with great
 companies, many here in Portland.
 
-{: #sponsors}
+{: #sponsor-list}
  - [![NASA](/images/logos/nasa.png)](http://spacegrant.oregonstate.edu/)
  - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
  - [![Solidworks](/images/logos/solidworks.png)](http://solidworks.com)

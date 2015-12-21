@@ -1,12 +1,12 @@
-#sponsors:after {
+#sponsor-list:after {
     content: "."; 
     visibility: hidden; 
     display: block; 
     height: 0; 
     clear: both;
 }
-#sponsors li { list-style: none; @include column(2); }
-#sponsors li img { width: 100%; height: auto; }
+#sponsor-list li { list-style: none; @include column(2); }
+#sponsor-list li img { width: 100%; height: auto; }
 
 .list-with-icons li { list-style: none !important; margin-left: 25px !important; }
 .list-with-icons img { width: 1.0em; margin-bottom: -0.15em; margin-right: 15px; }
