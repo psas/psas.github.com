@@ -192,16 +192,28 @@ This flight had a student designed control experiment that attempted to dampen t
 --------------------------------------------------------------------------------
 
 
+
 {: #L5}
 ## **L-5** — August 20th, 2005
 
 #### Launch Data:
 
- **Airframe**           | [LV2.0](/rockets/#lv20)
+ **Airframe**           | [LV2.2](/rockets/#lv20)
  **Total Mass**         | ? kg
  **Motor**              | ?
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
- **Altitude**           | ? km
+ **Avionics**           | 
+ - System Mass          | ? kg
+ - Flight Computer      | MOPS/520 133MHz 586 single core
+ - Telemetry            | 802.11 WiFi
+ - Bands                | 1.253 GHz, 3W; 2.4 GHz, 1 W
+ **Altitude**           | 5.5 km
+ **Peak Velocity**      | ~400 m/s (Mach 1.2)
+ **Result**             | Mission success, but complete loss of vehicle.
+
+
+Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the [Launch-5](https://github.com/psas/Launch-5) repo.
+
 
 
 
