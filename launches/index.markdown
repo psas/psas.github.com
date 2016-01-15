@@ -28,7 +28,7 @@ List of Launches:
 
 
 {: #L12}
-## **L-12** — July 19th, 2015
+## **L-12** — July 19<sup>th</sup>, 2015
 
 ![L12 Patch](images/L12_patch.svg)
 
@@ -72,7 +72,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 {: #L11}
-## **L-11** — July 20th, 2014
+## **L-11** — July 20<sup>th</sup>, 2014
 
 ![L11 Patch](images/L11_patch.svg)
 
@@ -102,7 +102,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 {: #L10}
-## **L-10** — June 30th, 2013
+## **L-10** — June 30<sup>th</sup>, 2013
 
 ![L10 Patch](images/L10_patch.svg)
 
@@ -129,7 +129,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 {: #L9}
-## **L-9** — July 31st, 2011
+## **L-9** — July 31<sup>st</sup>, 2011
 
 #### Launch Data:
 
@@ -145,7 +145,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 {: #L8}
-## **L-8** — October 17th, 2010
+## **L-8** — October 17<sup>th</sup>, 2010
 
 #### Launch Data:
 
@@ -161,7 +161,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 {: #L7}
-## **L-7** — June 27th, 2010
+## **L-7** — June 27<sup>th</sup>, 2010
 
 #### Launch Data:
 
@@ -177,7 +177,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 {: #L6}
-## **L-6** — May 31st, 2009
+## **L-6** — May 31<sup>st</sup>, 2009
 
 #### Launch Data:
 
@@ -194,7 +194,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 {: #L5}
-## **L-5** — August 20th, 2005
+## **L-5** — August 20<sup>th</sup>, 2005
 
 #### Launch Data:
 
@@ -221,7 +221,7 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
 
 
 {: #L4}
-## **L-4** — September 21st, 2003
+## **L-4** — September 21<sup>st</sup>, 2003
 
 #### Launch Data:
 
@@ -237,7 +237,7 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
 
 
 {: #L3}
-## **L-3** — September 22nd, 2002
+## **L-3** — September 22<sup>nd</sup>, 2002
 
 #### Launch Data:
 
@@ -253,7 +253,7 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
 
 
 {: #L2}
-## **L-2** — October 7th, 2000
+## **L-2** — October 7<sup>th</sup>, 2000
 
 #### Launch Data:
 
@@ -270,7 +270,7 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
 
 
 {: #L1}
-## **L-1** — April 11th, 1999
+## **L-1** — April 11<sup>th</sup>, 1999
 
 #### Launch Data:
 
@@ -298,7 +298,7 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
 
 
 {: #L0}
-## **L-0** — June 7th, 1998
+## **L-0** — June 7<sup>th</sup>, 1998
 
 First Launch for the newly formed PSAS club!
 
