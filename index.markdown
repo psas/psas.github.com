@@ -50,7 +50,7 @@ student to come help out.
 
 Keep reading about what we're doing. Follow us on social media:
 
- - [@pdxarospace](https://twitter.com/pdxaerospace)
+ - [@pdxaerospace](https://twitter.com/pdxaerospace)
  - [facebook/pdxaerospace](https://facebook.com/pdxaerospace)
  - [YouTube](https://www.youtube.com/user/PSASRockets)
  - [Flickr](https://www.flickr.com/photos/pdxaerospace/)
