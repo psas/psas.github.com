@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-description: "A lot of work we do spans across many launches and many rockets. Many of our special projects come from deep needs in the aerospace world for solutions"
+description: "A lot of work we do spans across many launches and many rockets. Many of our special projects come from deep needs in the aerospace world for solutions."
 image:
   feature: slider_hdlaunch.jpg
 ---
@@ -27,11 +27,24 @@ The flight software running on [LV2](/rockets/#LV22) is a mix of STM32F4 microco
 Firmware, OS, and application code for the STM32F4xx series of microcontrollers used on the PSAS AV3 avionics system.
 
 
-### Software: [github.com/psas/av3-fc](https://github.com/psas/av3-fc)
+### Primary Flight Computer Software: [github.com/psas/av3-fc](https://github.com/psas/av3-fc)
 
 [![Build Status](https://travis-ci.org/psas/av3-fc.svg)](https://travis-ci.org/psas/av3-fc)
 
 Main flight computer executive code. The flight computer is the central rocket controller, providing commands, receiving and parsing data, and communicating to the ground.
+
+
+### Elderberry [github.com/psas/elderberry](https://github.com/psas/elderberry)
+
+The main flight computer code is written extremely modularly. Elderberry is a project to tie together all the modules and auto-generate the event loop and `main.c` files just before compilation.
+
+This project was initially a PSU senior capstone project in 2013.
+
+
+### RasPi Camera Scripts [github.com/psas/camera-automation](https://github.com/psas/camera-automation)
+
+We have used Raspberry Pi's with cameras on flights to record and broadcast video. Some of the particular setup is captured here.
+
 
 
 ## LV2 Flight Hardware
@@ -49,11 +62,43 @@ To get started you'll need EAGLE CAD version 6.2 or greater.
 
 ## Ground Support
 
+
 ### Telemetry Viewer [github.com/psas/telemetry](https://github.com/psas/telemetry)
 
 We generate large amounts of data on the rocket flight computer. We need to be able to safely and remotely monitor the rocket both while testing new algorithms in the lab, and while in flight. It's web based so that almost any device with a browser can see the data live. We've even broadcast our telemetry live in flight around the world during a flight!
 
 This viewer project was initially a PSU senior capstone project in 2013.
+
+
+### Commander [github.com/psas/commander](https://github.com/psas/commander)
+
+This was used to send commands (ARM, power-on, etc.) to any system (ground or flight) via a simple web interface.
+
+### Flight Director Table [github.com/psas/flight-director-table](https://github.com/psas/flight-director-table)
+
+We have a single table with a ground support computer running all the necessary software for launch. This also incorporates ground WiFi hardware, tracking antennas, ground communication systems, and networking gear.
+
+
+### Launch Tower Computer [github.com/psas/launch-tower](https://github.com/psas/launch-tower)
+
+Ignition of the rocket is managed by a small embedded computer at the base of the launch tower. We communicate with this over a ground WiFi link to launch the rocket. It also has a hard data link to the rocket with shore power.
+
+
+### Launch Tower App [github.com/psas/launch-tower-comm](https://github.com/psas/launch-tower-comm)
+
+This is a stand-alone application written in python and kivy that was used in the past to send the arm and launch command to the launch tower computer over a WiFi link
+
+
+### Countdown [github.com/psas/countdown](https://github.com/psas/countdown)
+
+Master time for countdown to launch.
+
+
+### Procedure Book [github.com/psas/procedure-book](https://github.com/psas/procedure-book)
+
+Printable list of launch weekend procedures.
+
+
 
 
 -------------------------------------------------------------------------------
@@ -68,7 +113,19 @@ We have several ongoing projects helping to build on our technical work on amate
 
 ### GPS
 
-GPS is a thing.
+Working GPS on rockets is very difficult. Off-the-self solutions will not work for a number of technical and legal reasons (unless you're very rich). Instead we've worked on our own implementations of GPS in software and hardware:
+
+#### Software Defined Radio GPS Board [github.com/psas/gps-rf-board](https://github.com/psas/gps-rf-board) 
+
+A circuit board flown on Launch-12 that uses a SDR approach to GPS. The firmware for the board is in the [STM32](https://github.com/psas/stm32) repo along with all the other flight firmware from that launch.
+
+In addition to the firmware this board needed a CPLD for high speed SPI communication to the SDR chip. This was stored in:
+
+ - [github.com/psas/gps-cpld](https://github.com/psas/gps-cpld)
+
+#### GPS Algorithms [github.com/psas/gps](https://github.com/psas/gps)
+
+Data from our SDR GPS board and even other GPS projects from around the world can be decoded with this software.
 
 
 ### Cylindrical Patch Antennas
