@@ -45,7 +45,7 @@ Dig into our files and read a lot more about how we're organised on our
 
 ## Get Involved
 
-PSAS involves volunteers from all walks of life. You don't have to me a PSU
+PSAS involves volunteers from all walks of life. You don't have to be a PSU
 student to come help out.
 
 Keep reading about what we're doing. Follow us on social media:
