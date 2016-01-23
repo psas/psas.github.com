@@ -14,7 +14,7 @@ image:
 
 ## LV2 Flight Software
 
-![Launch-12 Network Diagram](http://psas.github.io/Launch-12/avionics/network_diagram.svg){: style="width: 100%"}
+![Launch-12 Network Diagram](http://psas.github.io/Launch-12/avionics/network_diagram.svg)
 
 The flight software running on [LV2](/rockets/#LV22) is a mix of STM32F4 microcontrollers handling low level code and an Intel Atom main Flight Computer running Linux with a flight executive program written in C. Data is passed through the system via TCP/IP, either on localhost or via the physical ethernet network on the rocket.
 
