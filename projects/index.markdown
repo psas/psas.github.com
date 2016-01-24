@@ -12,6 +12,15 @@ image:
 {:toc}
 
 
+## Project Build Statuses
+
+Most of our software is built continuously to check for obvious compile errors. Here is the list of build statuses:
+
+ - [![Build Status](https://travis-ci.org/psas/stm32.svg)](https://travis-ci.org/psas/stm32) Flight computer firmware
+ - [![Build Status](https://travis-ci.org/psas/av3-fc.svg)](https://travis-ci.org/psas/av3-fc) Flight computer software
+ - [![Build Status](https://travis-ci.org/psas/elderberry.svg)](https://travis-ci.org/psas/elderberry) Flight computer framework
+ - [![Build Status](https://travis-ci.org/psas/psas_packet.svg)](https://travis-ci.org/psas/psas_packet) Data packet library
+
 ## LV2 Flight Software
 
 ![Launch-12 Network Diagram](http://psas.github.io/Launch-12/avionics/network_diagram.svg)
@@ -19,16 +28,28 @@ image:
 The flight software running on [LV2](/rockets/#LV22) is a mix of STM32F4 microcontrollers handling low level code and an Intel Atom main Flight Computer running Linux with a flight executive program written in C. Data is passed through the system via TCP/IP, either on localhost or via the physical ethernet network on the rocket.
 
 
-### Firmware: [github.com/psas/stm32](https://github.com/psas/stm32)
+
+### Firmware
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/stm32](https://github.com/psas/stm32)
 
 ![](https://img.shields.io/badge/language-c-blue.svg)
 [![Build Status](https://travis-ci.org/psas/stm32.svg)](https://travis-ci.org/psas/stm32)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/1787/badge.svg)](https://scan.coverity.com/projects/1787)
+[Active Issues](https://github.com/psas/stm32/issues)
 
-Firmware, OS, and application code for the STM32F4xx series of microcontrollers used on the PSAS AV3 avionics system.
+
+Firmware, OS, and application code for the `STM32F4xx` series of microcontrollers used on the PSAS AV3 avionics system.
 
 
-### Primary Flight Computer Software: [github.com/psas/av3-fc](https://github.com/psas/av3-fc)
+
+### Primary Flight Computer Software
+
+--------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/av3-fc](https://github.com/psas/av3-fc)
 
 ![](https://img.shields.io/badge/language-c-blue.svg)
 [![Build Status](https://travis-ci.org/psas/av3-fc.svg)](https://travis-ci.org/psas/av3-fc)
@@ -36,16 +57,43 @@ Firmware, OS, and application code for the STM32F4xx series of microcontrollers 
 Main flight computer executive code. The flight computer is the central rocket controller, providing commands, receiving and parsing data, and communicating to the ground.
 
 
-### Elderberry [github.com/psas/elderberry](https://github.com/psas/elderberry)
+
+### Elderberry
+
+--------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/elderberry](https://github.com/psas/elderberry)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
+[![Build Status](https://travis-ci.org/psas/elderberry.svg)](https://travis-ci.org/psas/elderberry)
+
 
 The main flight computer code is written extremely modularly. Elderberry is a project to tie together all the modules and auto-generate the event loop and `main.c` files just before compilation.
 
 This project was initially a PSU senior capstone project in 2013.
 
 
-### RasPi Camera Scripts [github.com/psas/camera-automation](https://github.com/psas/camera-automation)
+
+### Packet Definition
+
+--------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/psas_packet](https://github.com/psas/psas_packet)
+
+![](https://img.shields.io/badge/language-python-green.svg)
+[![Build Status](https://travis-ci.org/psas/psas_packet.svg)](https://travis-ci.org/psas/psas_packet)
+[![PyPi Version](https://badge.fury.io/py/psas_packet.svg)](https://pypi.python.org/pypi/psas_packet/)
+[![Coverage](https://coveralls.io/repos/psas/psas_packet/badge.svg?branch=master)](https://coveralls.io/r/psas/psas_packet?branch=master)
+[![Docs](https://readthedocs.org/projects/psas-packet-serializer/badge/?version=latest)](https://psas-packet-serializer.readthedocs.org/)
+
+Reusable Portland State Aerospace Society telemetry packet encoder, decoder, documentation, and other tools.
+
+
+### RasPi Camera Scripts
+
+--------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/camera-automation](https://github.com/psas/camera-automation)
 
 ![](https://img.shields.io/badge/language-shell-lightgrey.svg)
 
@@ -53,13 +101,21 @@ We have used Raspberry Pi's with cameras on flights to record and broadcast vide
 
 
 
+--------------------------------------------------------------------------------
+
+
 ## LV2 Flight Hardware
 
-### Electronics: [github.com/psas/avioncs-cad](https://github.com/psas/avionics-cad)
+
+### Electronics:
+
+--------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/avioncs-cad](https://github.com/psas/avionics-cad)
 
 ![](https://img.shields.io/badge/language-EagleCAD-orange.svg)
 
-Main repo for all schematics and board designs on the rocket. This is the main work of the Avionics Team.
+Main repository for all schematics and board designs on the rocket. This is the main work of the Avionics Team.
 
 To get started you'll need EAGLE CAD version 6.2 or greater.
 
@@ -71,7 +127,12 @@ To get started you'll need EAGLE CAD version 6.2 or greater.
 ## Ground Support
 
 
-### Telemetry Viewer [github.com/psas/telemetry](https://github.com/psas/telemetry)
+
+### Telemetry Viewer
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/telemetry](https://github.com/psas/telemetry)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
 
@@ -81,40 +142,71 @@ We generate large amounts of data on the rocket flight computer. We need to be a
 This viewer project was initially a PSU senior capstone project in 2013.
 
 
-### Commander [github.com/psas/commander](https://github.com/psas/commander)
+
+### Commander
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/commander](https://github.com/psas/commander)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
 
 This was used to send commands (ARM, power-on, etc.) to any system (ground or flight) via a simple web interface.
 
-### Flight Director Table [github.com/psas/flight-director-table](https://github.com/psas/flight-director-table)
+
+
+### Flight Director Table
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/flight-director-table](https://github.com/psas/flight-director-table)
+
 
 We have a single table with a ground support computer running all the necessary software for launch. This also incorporates ground WiFi hardware, tracking antennas, ground communication systems, and networking gear.
 
 
-### Launch Tower Computer [github.com/psas/launch-tower](https://github.com/psas/launch-tower)
+
+### Launch Tower Computer
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/launch-tower](https://github.com/psas/launch-tower)
 
 Ignition of the rocket is managed by a small embedded computer at the base of the launch tower. We communicate with this over a ground WiFi link to launch the rocket. It also has a hard data link to the rocket with shore power.
 
 
-### Launch Tower App [github.com/psas/launch-tower-comm](https://github.com/psas/launch-tower-comm)
+
+### Launch Tower Control Application 
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/launch-tower-comm](https://github.com/psas/launch-tower-comm)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
 
 This is a stand-alone application written in python and kivy that was used in the past to send the arm and launch command to the launch tower computer over a WiFi link
 
 
-### Countdown [github.com/psas/countdown](https://github.com/psas/countdown)
+
+### Launch Countdown
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/countdown](https://github.com/psas/countdown)
 
 ![](https://img.shields.io/badge/language-jekyll-yellow.svg)
 
 Master time for countdown to launch.
 
 
-### Procedure Book [github.com/psas/procedure-book](https://github.com/psas/procedure-book)
+
+### Procedure Book
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/procedure-book](https://github.com/psas/procedure-book)
 
 ![](https://img.shields.io/badge/language-jekyll-yellow.svg)
-
 
 Printable list of launch weekend procedures.
 
@@ -135,7 +227,13 @@ We have several ongoing projects helping to build on our technical work on amate
 
 Working GPS on rockets is very difficult. Off-the-self solutions will not work for a number of technical and legal reasons (unless you're very rich). Instead we've worked on our own implementations of GPS in software and hardware:
 
-#### Software Defined Radio GPS Board [github.com/psas/gps-rf-board](https://github.com/psas/gps-rf-board) 
+
+
+#### Software Defined Radio GPS Board
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/gps-rf-board](https://github.com/psas/gps-rf-board) 
 
 ![](https://img.shields.io/badge/language-EagleCAD-orange.svg)
 
@@ -145,21 +243,36 @@ In addition to the firmware this board needed a CPLD for high speed SPI communic
 
  - [github.com/psas/gps-cpld](https://github.com/psas/gps-cpld)
 
-#### GPS Algorithms [github.com/psas/gps](https://github.com/psas/gps)
+
+
+#### GPS Algorithms
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/gps](https://github.com/psas/gps)
 
 ![](https://img.shields.io/badge/language-c-blue.svg)
 
 Data from our SDR GPS board and even other GPS projects from around the world can be decoded with this software.
 
 
+
 ### Cylindrical Patch Antennas
+
+-------------------------------------------------------------------------------
 
 Bespoke, handmade wrap-around microwave patch antennas specially for rockets.
 
 
-### DxWiFi: [github.com/psas/DxWiFi](https://github.com/psas/DxWiFi)
+
+### DxWiFi 
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/DxWiFi](https://github.com/psas/DxWiFi)
 
 We send data back to the ground from our rocket using ordinary WiFi like in your laptop or phone. We're working on pushing IEEE 802.11 to ultra long distance communication.
+
 
 
 ### Carbon Fiber
