@@ -172,6 +172,8 @@ We have a single table with a ground support computer running all the necessary 
 
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/launch-tower](https://github.com/psas/launch-tower)
 
+![](https://img.shields.io/badge/language-KiCad-orange.svg)
+
 Ignition of the rocket is managed by a small embedded computer at the base of the launch tower. We communicate with this over a ground WiFi link to launch the rocket. It also has a hard data link to the rocket with shore power.
 
 
@@ -257,6 +259,53 @@ Data from our SDR GPS board and even other GPS projects from around the world ca
 
 
 
+### Cold Gas Reaction Control System
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/reaction-control](https://github.com/psas/reaction-control)
+
+Work on a functional cold gas RCS system
+
+
+
+### Research
+
+-------------------------------------------------------------------------------
+
+We have some ongoing research topics. Sometimes we just need a place to stuff things while we work on them.
+
+
+#### Liquid Engine Analysis
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-analysis](https://github.com/psas/liquid-engine-analysis)
+
+![](https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg)
+
+Back of the envelope calculations for liquid rocket engines.
+
+
+#### LV3 Design Whitepaper
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/LV3-design](https://github.com/psas/LV3-design)
+
+![](https://img.shields.io/badge/language-markdown-yellow.svg)
+
+Paper on the design of the LV3 vehicle. <http://psas.pdx.edu/LV3-design>
+
+
+#### Roll Control
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.com/psas/roll-control](https://github.com/psas/roll-control)
+
+![](https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg)
+
+Documentation for our canard based roll control scheme, with an undergraduate designed control system.
+
+Flown successfully aboard [Launch 12](/launchs/#L12). 
+
+
+
 ### Cylindrical Patch Antennas
 
 -------------------------------------------------------------------------------
@@ -265,16 +314,67 @@ Bespoke, handmade wrap-around microwave patch antennas specially for rockets.
 
 
 
-### DxWiFi 
+### Long Distance WiFi
 
 -------------------------------------------------------------------------------
 
+#### Main Project, DxWiFi
+
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/DxWiFi](https://github.com/psas/DxWiFi)
+
+A mission objective is to be able to communicate via WiFi from space -- specifically, have data be transmitted from a COTS IEEE 802.11b module onboard the CubeSat to an inexpensive “DIY” ground station setup meant for K-12 STEM programs.
 
 We send data back to the ground from our rocket using ordinary WiFi like in your laptop or phone. We're working on pushing IEEE 802.11 to ultra long distance communication.
 
+#### Power Amp for 2.4 GHz band WiFi
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/dxwifi-pa](https://github.com/psas/dxwifi-pa)
+
+Work on a high-efficiency power amp (PA) for WiFi in the 2.4 GHz band.
 
 
 ### Carbon Fiber
 
+-------------------------------------------------------------------------------
+
 Extremely light carbon fiber composite construction techniques
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Meta
+
+### psas.pdx.edu
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/psas.github.com](https://github.com/psas/psas.github.com)
+
+![](https://img.shields.io/badge/language-jekyll-yellow.svg)
+
+This website is also a git repo! See a spelling mistake? Suggest a change? Send us a pull request!
+
+
+
+### Publicity Resources
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/publicity](https://github.com/psas/publicity)
+
+Logos, posters, stickers and public resources for the club.
+
+
+
+### Blog
+
+-------------------------------------------------------------------------------
+
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/blog](https://github.com/psas/blog)
+
+![](https://img.shields.io/badge/language-jekyll-yellow.svg)
+
+A blog for PSAS.
