@@ -38,8 +38,8 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 ![](https://img.shields.io/badge/language-c-blue.svg)
 [![Build Status](https://travis-ci.org/psas/stm32.svg)](https://travis-ci.org/psas/stm32)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/1787/badge.svg)](https://scan.coverity.com/projects/1787)
-[Active Issues](https://github.com/psas/stm32/issues)
-
+[![Active Issues](https://img.shields.io/github/issues/psas/stm32.svg)](https://github.com/psas/stm32/issues)
+[![GitHub tag](https://img.shields.io/github/tag/psas/stm32.svg)](https://github.com/psas/stm32/releases)
 
 Firmware, OS, and application code for the `STM32F4xx` series of microcontrollers used on the PSAS AV3 avionics system.
 
@@ -53,6 +53,9 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 
 ![](https://img.shields.io/badge/language-c-blue.svg)
 [![Build Status](https://travis-ci.org/psas/av3-fc.svg)](https://travis-ci.org/psas/av3-fc)
+[![Active Issues](https://img.shields.io/github/issues/psas/av3-fc.svg)](https://github.com/psas/av3-fc/issues)
+[![GitHub tag](https://img.shields.io/github/tag/psas/av3-fc.svg)](https://github.com/psas/av3-fc/releases)
+
 
 Main flight computer executive code. The flight computer is the central rocket controller, providing commands, receiving and parsing data, and communicating to the ground.
 
@@ -85,6 +88,8 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 [![PyPi Version](https://badge.fury.io/py/psas_packet.svg)](https://pypi.python.org/pypi/psas_packet/)
 [![Coverage](https://coveralls.io/repos/psas/psas_packet/badge.svg?branch=master)](https://coveralls.io/r/psas/psas_packet?branch=master)
 [![Docs](https://readthedocs.org/projects/psas-packet-serializer/badge/?version=latest)](https://psas-packet-serializer.readthedocs.org/)
+[![Active Issues](https://img.shields.io/github/issues/psas/psas_packet.svg)](https://github.com/psas/psas_packet/issues)
+
 
 Reusable Portland State Aerospace Society telemetry packet encoder, decoder, documentation, and other tools.
 
