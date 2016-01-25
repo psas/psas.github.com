@@ -315,6 +315,8 @@ Flown successfully aboard [Launch 12](/launchs/#L12).
 
 -------------------------------------------------------------------------------
 
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.com/psas/antennas](https://github.com/psas/antennas)
+
 Bespoke, handmade wrap-around microwave patch antennas specially for rockets.
 
 
