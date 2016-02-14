@@ -307,7 +307,7 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.c
 
 Documentation for our canard based roll control scheme, with an undergraduate designed control system.
 
-Flown successfully aboard [Launch 12](/launchs/#L12). 
+Flown successfully aboard [Launch 12](/launches/#L12). 
 
 
 
