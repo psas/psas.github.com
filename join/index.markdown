@@ -24,3 +24,10 @@ If you want a more formal introduction, we have a big **Orientation for New Memb
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=psas.rockets%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="680" height="500" frameborder="0" scrolling="no"></iframe>
 
+## Donate!
+
+If you can't help directly, but still want to show your support, please consider giving a tax-deductible donation PSAS:
+
+### [Click Here To Make A Donation](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)
+
+Every little bit helps!

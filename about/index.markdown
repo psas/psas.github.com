@@ -12,7 +12,12 @@ The answer is that we focus on small, ongoing projects which move us toward our 
 
 Outreach is an important part of what we do as an educational project. We've done many presentations at local schools, and all our projects are open source---from CAD drawings to schematic diagrams to our software.
 
-Finally, _everyone_ is welcome to [help out](/join) -- be they PSU students, people from local industry, and even other student groups.
+Everyone is welcome to [help out](/join) -- be they PSU students, people from local industry, and even other student groups.
+
+PSAS is funded entirely by donations from people in the community who belove in our vision and want to contribute to aerospace education in Oregon. We're part of the Portland State Foundation which is a 501(c) 3 organization. Any donation to PSAS is fully tax-deductible.
+
+### [Click Here To Make A Donation!](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)
+
 
 ## Schedule
 
