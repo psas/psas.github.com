@@ -230,6 +230,17 @@ Printable list of launch weekend procedures.
 We have several ongoing projects helping to build on our technical work on amateur rockets. Often these projects have implications for many different rockets we fly, rather than on particular flight or airframe.
 
 
+### 360° Camera
+
+-------------------------------------------------------------------------------
+
+Homepage: [psas.pdx.edu/projects/360-camera/](360-camera) 
+
+For our [LV2](/rockets/#lv22) rocket we envisioned a full, wrap-around camera device that would let you replay video from the launch that would look like you were flying on the rocket!
+
+{% include youtube.html video="Dklyg5MwBL4" %}
+
+
 ### GPS
 
 Working GPS on rockets is very difficult. Off-the-self solutions will not work for a number of technical and legal reasons (unless you're very rich). Instead we've worked on our own implementations of GPS in software and hardware:
