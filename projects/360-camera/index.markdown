@@ -17,6 +17,16 @@ The next problem was how to get them in the rocket. LV2 has a modular design, so
 
 ## The 360° Camera Module
 
+### 3D Model
+
+<iframe width="680" height="480" src="https://sketchfab.com/models/4fe9582ab46a4428b951b95a365930d1/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe><p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/4fe9582ab46a4428b951b95a365930d1?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">LV2 360 Camera Module</a>
+    by <a href="https://sketchfab.com/psas?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">PSAS</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+
+### Finished Module Photos 
+
 [![A side view of the finished 360 Camera module](360_back_1.jpg)](360_back_1.jpg)
 
 A side view of the finished 360 Camera module.
