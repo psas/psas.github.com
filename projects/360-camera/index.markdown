@@ -45,6 +45,17 @@ Solidworks drawings of the module can be found, along with CAD of our entire roc
 
 <https://github.com/psas/sw-cad-airframe-lv2.3>
 
+## Triggering The Recording
+
+
+
+The individual camera settings were set before they were mounted in the module. They are mounted days before the launch, in the off state. There are pass-through holes in the module for pressing the power button, and to the see the indicator LEDs. Part of our pre-flight procedure on was to turn on and verify the lights for each of th 5 cameras.
+
+This only powered-on, not started recording. The recording signal was through a remote shutter cable. We tied all the shutter cables together on a little piece of perf-board in the center of the module and and sent a single "trigger" cable up to the nearest networked module, which happened to be a Raspberry Pi that runs one of the other cameras on the flight. The LV2 flight computer stack was Ethernet based and with both a telemetry downlink and an umbilical cable we had access from ground control laptops. We [had simple scripts to set the GPIO to start the recording](https://github.com/psas/camera-automation/tree/master/picam2/CameraScripts
+).
+
+Unfortunately this was a one-shot deal, because we would have to physically reset (walk up and power cycle) to restart the recording. So starting the cameras was only commanded during the final countdown when everything else was known to be working. We had ~1 hour of film time, so if we had to recycle the launch we would likely still have room left for launch footage.
+
 
 ## Video From Launch-12
 
