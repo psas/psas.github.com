@@ -17,6 +17,10 @@ The next problem was how to get them in the rocket. LV2 has a modular design, so
 
 ## The 360° Camera Module
 
+The camera module was in the middle of the rocket stack.
+
+[![diagram of rocket with module](openrocket-labled.png)](openrocket-labled.png)
+
 ### 3D Model
 
 <iframe width="680" height="480" src="https://sketchfab.com/models/4fe9582ab46a4428b951b95a365930d1/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe><p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -45,16 +49,23 @@ Solidworks drawings of the module can be found, along with CAD of our entire roc
 
 <https://github.com/psas/sw-cad-airframe-lv2.3>
 
+
+
 ## Triggering The Recording
 
+The individual camera settings were set before they were mounted in the module. They are mounted days before the launch, in the off state. There are pass-through holes in the module for pressing the power button, and to the see the indicator LEDs. Part of our pre-flight procedure on was to turn on and verify the lights for each of the 5 cameras.
 
-
-The individual camera settings were set before they were mounted in the module. They are mounted days before the launch, in the off state. There are pass-through holes in the module for pressing the power button, and to the see the indicator LEDs. Part of our pre-flight procedure on was to turn on and verify the lights for each of th 5 cameras.
-
-This only powered-on, not started recording. The recording signal was through a remote shutter cable. We tied all the shutter cables together on a little piece of perf-board in the center of the module and and sent a single "trigger" cable up to the nearest networked module, which happened to be a Raspberry Pi that runs one of the other cameras on the flight. The LV2 flight computer stack was Ethernet based and with both a telemetry downlink and an umbilical cable we had access from ground control laptops. We [had simple scripts to set the GPIO to start the recording](https://github.com/psas/camera-automation/tree/master/picam2/CameraScripts
+This only powered-on, not started recording. The recording signal was through a remote shutter cable. We tied all the shutter cables together on a little piece of perf-board in the center of the module and sent a single "trigger" cable up to the nearest networked module, which happened to be a Raspberry Pi that runs one of the other cameras on the flight. The LV2 flight computer stack was Ethernet based and with both a telemetry downlink and an umbilical cable we had access from ground control laptops. We [had simple scripts to set the GPIO to start the recording](https://github.com/psas/camera-automation/tree/master/picam2/CameraScripts
 ).
 
 Unfortunately this was a one-shot deal, because we would have to physically reset (walk up and power cycle) to restart the recording. So starting the cameras was only commanded during the final countdown when everything else was known to be working. We had ~1 hour of film time, so if we had to recycle the launch we would likely still have room left for launch footage.
+
+
+## Post Processing
+
+The 5 independent 100FPS video streams were synchronized by hand based on the exact moment of launch. Then they were rendered out to a sequence of image files. The images are then calibrated with [PTGUI](https://www.ptgui.com/). A batch process is performed using the master calibration file to warp and blend all 5 images into a single equirectangular images. The new sequences were then rendered into a single video file with additional warped logos at the zenith and nadir composited in.
+
+The final equirectangular video can be treated as a 360&deg; panorama by many video players, including YouTube.
 
 
 ## Video From Launch-12
