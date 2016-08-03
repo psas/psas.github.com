@@ -108,4 +108,4 @@ Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by In
 
 ## LV3.0?
 
-What will the next rocket be like? [Prelemenary LV3 design](/LV3-design/).
+What will the next rocket be like? [Preliminary LV3 design](/LV3-design/).
