@@ -29,7 +29,7 @@ As seen in:
 
 {: #sponsor-list}
  - [![The Oregonian](/images/logos/oregonian.png)](http://www.oregonlive.com/portland/index.ssf/2011/04/the_portland_state_aerospace_s.html)
- - [![Wired UK](/images/logos/wired.png)](http://www.wired.co.uk/magazine/archive/2015/06/features/diy-space/page/3)
+ - [![Wired UK](/images/logos/wired.png)](http://www.wired.co.uk/article/diy-space)
  - [![Popular Mechanics](/images/logos/popmech.png)](http://www.popularmechanics.com/space/rockets/a16722/hobbyist-rocket-space-race/)
  - [![Raspberry Pi](/images/logos/raspi.png)](https://www.raspberrypi.org/blog/rocket-launch-onboard-pi/)
  - [![Make Makezine](/images/logos/make.png)](http://makezine.com/2015/08/20/fantastic-3-mile-high-rocket-flight-captured-with-raspberry-pi-camera/)
