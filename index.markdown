@@ -76,18 +76,24 @@ We're working on a new rocket to launch in the fall of 2016. See
 We can't do this alone. Over the years we've been able to work with great
 companies, many here in Portland.
 
+**3D Printing Sevices Generously Donated By i3D Manufacturing**
+
+[![i3DMGG](/images/logos/i3D_large.png)](http://www.i3dmfg.com/)
+
 {: #sponsor-list}
  - [![NASA](/images/logos/nasa.png)](http://spacegrant.oregonstate.edu/)
- - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
  - [![Solidworks](/images/logos/solidworks.png)](http://solidworks.com)
  - [![github](/images/logos/github.png)](https://github.com)
  - [![NWEMC](/images/logos/nwemc.png)](http://www.nwemc.com/)
+ - [![Machine Sciences](/images/logos/machine_sci.png)](http://machinesciences.com/)
+ - [![i3DMGG](/images/logos/i3D.png)](http://www.i3dmfg.com/)
  - [![AntennaSys](/images/logos/antennasys.png)](http://www.antennasys.com/)
  - [![PowerStream](/images/logos/powerstream.png)](http://www.powerstream.com/)
  - [![Sunstone](/images/logos/sunstone.png)](http://www.sunstone.com/)
  - [![Screaming Circuits](/images/logos/screamingc.png)](http://www.screamingcircuits.com/)
  - [![Custom Circuit Boards](/images/logos/customb.png)](http://www.customcircuitboards.com/)
  - [![GPS Source](/images/logos/gpssource.png)](http://gpssource.com/)
+ - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
 
 
 Please don't hesitate to [get in touch](/contact/) if you're interested in helping
