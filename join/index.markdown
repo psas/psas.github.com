@@ -13,6 +13,7 @@ Getting involved is simple! Choose one:
 1. If all you want to do is follow along with what we're doing, then follow us on [Twitter](https://twitter.com/pdxaerospace) or subscribe to our ["Announcements" email list](http://lists.psas.pdx.edu/mailman/listinfo/psas-announce).
 2. If you want to get involved but you're not local, then [contact us](/about) and we'll get you into our meetings via Google Hangout.
 3. Come to a meeting!! 
+4. Look through [the issues on GitHub](https://github.com/search?q=org%3Apsas+is%3Aopen+) for something you can help with. For example, [tasks involving machining](https://github.com/search?q=org%3Apsas+is%3Aopen+label%3Amachining+).
 
 ## Coming to a meeting
 
