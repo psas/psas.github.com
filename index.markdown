@@ -34,7 +34,7 @@ See our Schedule section for detailed information on the where and when we meet.
 ## Open Source
 
 Nearly all of the rockets we make, code we write and circuits we design are
-published on the web. We track each and ever change made to every file with
+published on the web. We track each and every change made to every file with
 a [version control]() software called [git](http://git).
 
 [Github](https://github.com/) hosts all of our projects (called repositories). Browse through our whole stack at [github.com/psas](https://github.com/psas).
