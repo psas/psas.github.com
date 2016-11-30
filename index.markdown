@@ -68,13 +68,14 @@ things to fix!
 We're working on a new rocket to launch spring 2017. See
 [our coutdown page](https://psas.github.io/countdown/)
 
-### Projected Launch Date: Summer 2016
+### Projected Launch Date: Spring/Summer 2017
 
 
 ## Sponsors
 
 We can't do this alone. Over the years we've been able to work with great
-companies, many here in Portland.
+companies, many here in Portland. Note that all donations to PSAS are tax
+deductible via the Portland State Foundation's 501c3 status.
 
 **3D Printing Sevices Generously Donated By i3D Manufacturing**
 
