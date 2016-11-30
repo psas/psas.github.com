@@ -65,7 +65,7 @@ things to fix!
 
 ## Upcoming Launch
 
-We're working on a new rocket to launch in the fall of 2016. See
+We're working on a new rocket to launch spring 2017. See
 [our coutdown page](https://psas.github.io/countdown/)
 
 ### Projected Launch Date: Summer 2016
