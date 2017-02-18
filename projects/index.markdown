@@ -1,19 +1,17 @@
 ---
 layout: page
 title: Projects
-description: "A lot of work we do spans across many launches and many rockets. Many of our special projects come from deep needs in the aerospace world for solutions."
+description: "The work we do spans across many launches and rockets. Our special projects come from deep needs in the aerospace world for solutions."
 image:
   feature: slider_hdlaunch.jpg
 ---
 
-**List Of Projects:**
-
+## Table of Contents
 * Table of Contents
 {:toc}
 
 
 ## Project Build Statuses
-
 Most of our software is built continuously to check for obvious compile errors. Here is the list of build statuses:
 
  - [![Build Status](https://travis-ci.org/psas/stm32.svg)](https://travis-ci.org/psas/stm32) Flight computer firmware
@@ -22,7 +20,6 @@ Most of our software is built continuously to check for obvious compile errors. 
  - [![Build Status](https://travis-ci.org/psas/psas_packet.svg)](https://travis-ci.org/psas/psas_packet) Data packet library
 
 ## LV2 Flight Software
-
 ![Launch-12 Network Diagram](http://psas.github.io/Launch-12/avionics/network_diagram.svg)
 
 The flight software running on [LV2](/rockets/#LV22) is a mix of STM32F4 microcontrollers handling low level code and an Intel Atom main Flight Computer running Linux with a flight executive program written in C. Data is passed through the system via TCP/IP, either on localhost or via the physical ethernet network on the rocket.
@@ -30,9 +27,6 @@ The flight software running on [LV2](/rockets/#LV22) is a mix of STM32F4 microco
 
 
 ### Firmware
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/stm32](https://github.com/psas/stm32)
 
 ![](https://img.shields.io/badge/language-c-blue.svg)
@@ -46,9 +40,6 @@ Firmware, OS, and application code for the `STM32F4xx` series of microcontroller
 
 
 ### Primary Flight Computer Software
-
---------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/av3-fc](https://github.com/psas/av3-fc)
 
 ![](https://img.shields.io/badge/language-c-blue.svg)
@@ -62,9 +53,6 @@ Main flight computer executive code. The flight computer is the central rocket c
 
 
 ### Elderberry
-
---------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/elderberry](https://github.com/psas/elderberry)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
@@ -78,9 +66,6 @@ This project was initially a PSU senior capstone project in 2013.
 
 
 ### Packet Definition
-
---------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/psas_packet](https://github.com/psas/psas_packet)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
@@ -95,9 +80,6 @@ Reusable Portland State Aerospace Society telemetry packet encoder, decoder, doc
 
 
 ### RasPi Camera Scripts
-
---------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/camera-automation](https://github.com/psas/camera-automation)
 
 ![](https://img.shields.io/badge/language-shell-lightgrey.svg)
@@ -105,17 +87,10 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 We have used Raspberry Pi's with cameras on flights to record and broadcast video. Some of the particular setup is captured here.
 
 
-
---------------------------------------------------------------------------------
-
-
 ## LV2 Flight Hardware
 
 
-### Electronics:
-
---------------------------------------------------------------------------------
-
+### Electronics
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/avioncs-cad](https://github.com/psas/avionics-cad)
 
 ![](https://img.shields.io/badge/language-EagleCAD-orange.svg)
@@ -125,18 +100,9 @@ Main repository for all schematics and board designs on the rocket. This is the 
 To get started you'll need EAGLE CAD version 6.2 or greater.
 
 
-
--------------------------------------------------------------------------------
-
-
 ## Ground Support
 
-
-
 ### Telemetry Viewer
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/telemetry](https://github.com/psas/telemetry)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
@@ -147,11 +113,7 @@ We generate large amounts of data on the rocket flight computer. We need to be a
 This viewer project was initially a PSU senior capstone project in 2013.
 
 
-
 ### Commander
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/commander](https://github.com/psas/commander)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
@@ -159,11 +121,7 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 This was used to send commands (ARM, power-on, etc.) to any system (ground or flight) via a simple web interface.
 
 
-
 ### Flight Director Table
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/flight-director-table](https://github.com/psas/flight-director-table)
 
 
@@ -172,9 +130,6 @@ We have a single table with a ground support computer running all the necessary 
 
 
 ### Launch Tower Computer
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/launch-tower](https://github.com/psas/launch-tower)
 
 ![](https://img.shields.io/badge/language-KiCad-orange.svg)
@@ -184,9 +139,6 @@ Ignition of the rocket is managed by a small embedded computer at the base of th
 
 
 ### Launch Tower Control Application 
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/launch-tower-comm](https://github.com/psas/launch-tower-comm)
 
 ![](https://img.shields.io/badge/language-python-green.svg)
@@ -196,9 +148,6 @@ This is a stand-alone application written in python and kivy that was used in th
 
 
 ### Launch Countdown
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/countdown](https://github.com/psas/countdown)
 
 ![](https://img.shields.io/badge/language-jekyll-yellow.svg)
@@ -208,9 +157,6 @@ Master time for countdown to launch.
 
 
 ### Procedure Book
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/procedure-book](https://github.com/psas/procedure-book)
 
 ![](https://img.shields.io/badge/language-jekyll-yellow.svg)
@@ -218,22 +164,10 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 Printable list of launch weekend procedures.
 
 
-
-
--------------------------------------------------------------------------------
-
-
-
-
 ## Special Projects
-
 We have several ongoing projects helping to build on our technical work on amateur rockets. Often these projects have implications for many different rockets we fly, rather than on particular flight or airframe.
 
-
 ### 360° Camera
-
--------------------------------------------------------------------------------
-
 Homepage: [psas.pdx.edu/projects/360-camera/](360-camera) 
 
 For our [LV2](/rockets/#lv22) rocket we envisioned a full, wrap-around camera device that would let you replay video from the launch that would look like you were flying on the rocket!
@@ -242,15 +176,11 @@ For our [LV2](/rockets/#lv22) rocket we envisioned a full, wrap-around camera de
 
 
 ### GPS
-
 Working GPS on rockets is very difficult. Off-the-self solutions will not work for a number of technical and legal reasons (unless you're very rich). Instead we've worked on our own implementations of GPS in software and hardware:
 
 
 
 #### Software Defined Radio GPS Board
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/gps-rf-board](https://github.com/psas/gps-rf-board) 
 
 ![](https://img.shields.io/badge/language-EagleCAD-orange.svg)
@@ -264,9 +194,6 @@ In addition to the firmware this board needed a CPLD for high speed SPI communic
 
 
 #### GPS Algorithms
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/gps](https://github.com/psas/gps)
 
 ![](https://img.shields.io/badge/language-c-blue.svg)
@@ -276,24 +203,16 @@ Data from our SDR GPS board and even other GPS projects from around the world ca
 
 
 ### Cold Gas Reaction Control System
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/reaction-control](https://github.com/psas/reaction-control)
 
 Work on a functional cold gas RCS system
 
 
 
-### Research
-
--------------------------------------------------------------------------------
-
+## Research
 We have some ongoing research topics. Sometimes we just need a place to stuff things while we work on them.
 
-
-#### Liquid Engine Analysis
-
+### Liquid Engine Analysis
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-analysis](https://github.com/psas/liquid-engine-analysis)
 
 ![](https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg)
@@ -301,8 +220,7 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 Back of the envelope calculations for liquid rocket engines.
 
 
-#### LV3 Design Whitepaper
-
+### LV3 Design Whitepaper
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/LV3-design](https://github.com/psas/LV3-design)
 
 ![](https://img.shields.io/badge/language-markdown-yellow.svg)
@@ -310,22 +228,16 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 Paper on the design of the LV3 vehicle. <http://psas.pdx.edu/LV3-design>
 
 
-#### Roll Control
-
+### Roll Control
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.com/psas/roll-control](https://github.com/psas/roll-control)
 
 ![](https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg)
 
-Documentation for our canard based roll control scheme, with an undergraduate designed control system.
-
+Documentation for our canard based roll control scheme, with an undergraduate designed control system.  
 Flown successfully aboard [Launch 12](/launches/#L12). 
 
 
-
 ### Cylindrical Patch Antennas
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.com/psas/antennas](https://github.com/psas/antennas)
 
 Bespoke, handmade wrap-around microwave patch antennas specially for rockets.
@@ -333,11 +245,7 @@ Bespoke, handmade wrap-around microwave patch antennas specially for rockets.
 
 
 ### Long Distance WiFi
-
--------------------------------------------------------------------------------
-
 #### Main Project, DxWiFi
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/DxWiFi](https://github.com/psas/DxWiFi)
 
 A mission objective is to be able to communicate via WiFi from space -- specifically, have data be transmitted from a COTS IEEE 802.11b module onboard the CubeSat to an inexpensive “DIY” ground station setup meant for K-12 STEM programs.
@@ -345,30 +253,18 @@ A mission objective is to be able to communicate via WiFi from space -- specific
 We send data back to the ground from our rocket using ordinary WiFi like in your laptop or phone. We're working on pushing IEEE 802.11 to ultra long distance communication.
 
 #### Power Amp for 2.4 GHz band WiFi
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/dxwifi-pa](https://github.com/psas/dxwifi-pa)
 
 Work on a high-efficiency power amp (PA) for WiFi in the 2.4 GHz band.
 
 
 ### Carbon Fiber
-
--------------------------------------------------------------------------------
-
 Extremely light carbon fiber composite construction techniques
-
-
-
--------------------------------------------------------------------------------
-
 
 
 ## Meta
 
 ### psas.pdx.edu
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/psas.github.com](https://github.com/psas/psas.github.com)
 
 ![](https://img.shields.io/badge/language-jekyll-yellow.svg)
@@ -378,9 +274,6 @@ This website is also a git repo! See a spelling mistake? Suggest a change? Send 
 
 
 ### Publicity Resources
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/publicity](https://github.com/psas/publicity)
 
 Logos, posters, stickers and public resources for the club.
@@ -388,9 +281,6 @@ Logos, posters, stickers and public resources for the club.
 
 
 ### Blog
-
--------------------------------------------------------------------------------
-
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/blog](https://github.com/psas/blog)
 
 ![](https://img.shields.io/badge/language-jekyll-yellow.svg)
