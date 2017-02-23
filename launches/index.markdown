@@ -21,12 +21,6 @@ List of Launches:
 
 
 
---------------------------------------------------------------------------------
-
-
-
-
-
 {: #L12}
 ## **L-12** — July 19<sup>th</sup>, 2015
 
@@ -65,12 +59,6 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 
---------------------------------------------------------------------------------
-
-
-
-
-
 {: #L11}
 ## **L-11** — July 20<sup>th</sup>, 2014
 
@@ -97,10 +85,6 @@ This flight had a student designed control experiment that attempted to dampen t
 
 
 
---------------------------------------------------------------------------------
-
-
-
 {: #L10}
 ## **L-10** — June 30<sup>th</sup>, 2013
 
@@ -124,9 +108,6 @@ This flight had a student designed control experiment that attempted to dampen t
 {% include youtube.html video="CG_K993psl0"%}
 
 
---------------------------------------------------------------------------------
-
-
 
 {: #L9}
 ## **L-9** — July 31<sup>st</sup>, 2011
@@ -138,10 +119,6 @@ This flight had a student designed control experiment that attempted to dampen t
  **Motor**              | ?
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
  **Altitude**           | ? km
-
-
-
---------------------------------------------------------------------------------
 
 
 {: #L8}
@@ -156,10 +133,6 @@ This flight had a student designed control experiment that attempted to dampen t
  **Altitude**           | ? km
 
 
-
---------------------------------------------------------------------------------
-
-
 {: #L7}
 ## **L-7** — June 27<sup>th</sup>, 2010
 
@@ -172,10 +145,6 @@ This flight had a student designed control experiment that attempted to dampen t
  **Altitude**           | ? km
 
 
-
---------------------------------------------------------------------------------
-
-
 {: #L6}
 ## **L-6** — May 31<sup>st</sup>, 2009
 
@@ -186,10 +155,6 @@ This flight had a student designed control experiment that attempted to dampen t
  **Motor**              | ?
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
  **Altitude**           | ? km
-
-
-
---------------------------------------------------------------------------------
 
 
 
@@ -215,11 +180,6 @@ This flight had a student designed control experiment that attempted to dampen t
 Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the [Launch-5](https://github.com/psas/Launch-5) repo.
 
 
-
-
---------------------------------------------------------------------------------
-
-
 {: #L4}
 ## **L-4** — September 21<sup>st</sup>, 2003
 
@@ -230,10 +190,6 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
  **Motor**              | ?
  **Launch Site**        | [Black Rock Desert, NV](https://www.google.com/maps/place/40%C2%B052'59.0%22N+119%C2%B003'50.0%22W/@40.8830502,-119.1952099,36411m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0?hl=en)
  **Altitude**           | ? km
-
-
-
---------------------------------------------------------------------------------
 
 
 {: #L3}
@@ -248,10 +204,6 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
  **Altitude**           | ? km
 
 
-
---------------------------------------------------------------------------------
-
-
 {: #L2}
 ## **L-2** — October 7<sup>th</sup>, 2000
 
@@ -262,10 +214,6 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
  **Motor**              | ?
  **Launch Site**        | ?
  **Altitude**           | ? km
-
-
-
---------------------------------------------------------------------------------
 
 
 
@@ -291,10 +239,6 @@ Read a [data analysis of Launch 5](/Launch-5/). The raw data is on github in the
  **Altitude**           | ? km
  **Peak Velocity**      | ? m/s
  **Result**             | Success.
-
-
-
---------------------------------------------------------------------------------
 
 
 {: #L0}
@@ -338,7 +282,4 @@ The video feed worked great, with the exception of a couple of frames of snow,
 the entire flight was captured at the ground station. The launch site,
 surrounding countryside, and approaching thunderstorm could all be seen
 clearly.
-
-
---------------------------------------------------------------------------------
 

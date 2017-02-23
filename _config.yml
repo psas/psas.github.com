@@ -29,6 +29,8 @@ sass:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: Rockets
     url: /rockets/
   - title: Launches
