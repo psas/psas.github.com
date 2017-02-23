@@ -62,8 +62,4 @@ Then run
 This will build the site and host it at on `localhost:4000`. Direct a
 browser there, test, then commit and push.
 
-If you make changes to one of the submodules, -- aka `/_layouts/` -- you will need to run
-
-	$ git submodule update
-
-to update this repo to require the latest version of that submodule.
+If you make changes to one of the submodules, -- aka `/_layouts/` -- you will need to commit those changes within `\_layouts` and then add the latest version of `\_layouts` to a commit. (This way, this repo will point to that more recent commit, rather than the old one.)
