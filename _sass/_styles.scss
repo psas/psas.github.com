@@ -16,6 +16,24 @@ h1,h2,h3,h4,h5 {
     font-family: $serif;
 }
 
+h1:after {
+	content:'';
+	display:block;
+	border:3px solid DarkGreen;
+}
+
+h2:after {
+	content:'';
+	display: block;
+	border:2px solid green;
+}
+
+h3:after {
+	content:'';
+	display: block;
+	border:1px solid DarkSeaGreen;
+}
+
 p {
     margin-bottom: $lh;
 }
