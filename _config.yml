@@ -31,13 +31,13 @@ sass:
 links:
   - title: Home
     url: /
-  - title: Rockets
-    url: /rockets/
+  - title: About
+    url: /about/
+  - title: Get Involved
+    url: /join/
   - title: Launches
     url: /launches/
   - title: Projects
     url: /projects/
-  - title: Get Involved
-    url: /join/
-  - title: About
-    url: /about/
+  - title: Rockets
+    url: /rockets/
