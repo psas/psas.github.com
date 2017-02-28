@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-description: "The work we do spans across many launches and rockets. Our special projects come from deep needs in the aerospace world for solutions."
+description: "The work we do spans across many launches and rockets. Our special projects come from deep needs in the amateur aerospace community."
 image:
   feature: slider_hdlaunch.jpg
 ---
@@ -18,6 +18,135 @@ Most of our software is built continuously to check for obvious compile errors. 
  - [![Build Status](https://travis-ci.org/psas/av3-fc.svg)](https://travis-ci.org/psas/av3-fc) Flight computer software
  - [![Build Status](https://travis-ci.org/psas/elderberry.svg)](https://travis-ci.org/psas/elderberry) Flight computer framework
  - [![Build Status](https://travis-ci.org/psas/psas_packet.svg)](https://travis-ci.org/psas/psas_packet) Data packet library
+
+# Launch Vehicle 3 (LV3)
+LV3 is our current-generation airframe. It serves as a test platform for the technologies that will be used on LV4. 
+
+## Hardware
+
+### Carbon Fiber Airframe
+Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/lv3.0-airframe](https://github.com/psas/lv3.0-airframe)
+
+Combining work from two mechanical engineering capstones and work from many other PSAS members, the LV3 airframe is built of modular carbon fiber tubes. 
+Rather than using solid alumium, fiberglass, or cardboard, LV3 uses a sandwhich design -- lighter than the LV2 airframe by about a factor of 5. 
+This project has focused on making detailed and reproducible logs and procedures, for when it is adaped to LV4.
+
+### electric Nosecone Separation Ring (eNSR)
+Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/sw-cad-airframe-nsr](https://github.com/psas/sw-cad-airframe-nsr)
+
+Based on the work of a 2015 mechanical engineering capstone, the eNSR replaces the pyrotechnic separation ring used in LV2 in order to provide a more testable system. 
+The eNSR is designed to be robust against both the moderate aerodynamic loading experienced by LV3 and the soft vacuum experienced by LV4.
+This ring detaches the nosecone in order to deploy the parachute and could possibly be used for staging.
+
+### Recovery System
+Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/lv3.0-recovery](https://github.com/psas/lv3.0-recovery)
+
+Departing from LV2's in-body parachute, the LV3 recovery system is stored in the nosecone, since the eNSR would block an in-body parachute from deploying. This recovery system uses surgical tubing to push the nosecone up over the parachute. 
+
+### LV3 Design Whitepaper
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/LV3-design](https://github.com/psas/LV3-design)
+
+![](https://img.shields.io/badge/language-markdown-yellow.svg)
+
+Paper on the conceptual design of the LV3 vehicle. <http://psas.pdx.edu/LV3-design>
+
+
+### Cold Gas Reaction Control System (CG-RCS)
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/reaction-control](https://github.com/psas/reaction-control)
+
+Based on the work of a 2015 mechanical engineering capstone, this project replaces the canard-based RCS of LV2.
+This will give LV3 and LV4 attitude control, even at high altitudes and low airspeeds where canards are ineffective. 
+
+## Electronics
+### Launch Tower Computer
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/launch-tower](https://github.com/psas/launch-tower)
+
+![](https://img.shields.io/badge/language-KiCad-orange.svg)
+
+Ignition of the rocket is managed by a small embedded computer at the base of the launch tower. We communicate with this over a ground WiFi link to launch the rocket. It also has a hard data link to the rocket with shore power.
+
+### Low Gain Radio (LGR)
+Description coming soon.
+
+### Power Board
+Description coming soon.
+
+### Software Defined Radio GPS Board
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/gps-rf-board](https://github.com/psas/gps-rf-board) 
+
+![](https://img.shields.io/badge/language-EagleCAD-orange.svg)
+
+A circuit board flown on Launch-12 that uses a SDR approach to GPS. The firmware for the board is in the [STM32](https://github.com/psas/stm32) repo along with all the other flight firmware from that launch.
+
+In addition to the firmware this board needed a CPLD for high speed SPI communication to the SDR chip. This was stored in:
+
+ - [github.com/psas/gps-cpld](https://github.com/psas/gps-cpld)
+
+### Very Long Distance WiFi
+PSAS continues to work on a number of projects to implement WiFi for use on rockets and satellites.
+
+#### Main Project, DxWiFi
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/DxWiFi](https://github.com/psas/DxWiFi)
+
+A mission objective is to be able to communicate via WiFi from space -- specifically, have data be transmitted from a COTS IEEE 802.11b module onboard the CubeSat to an inexpensive “DIY” ground station setup meant for K-12 STEM programs.
+
+We send data back to the ground from our rocket using ordinary WiFi like in your laptop or phone. We're working on pushing IEEE 802.11 to ultra long distance communication.
+
+#### Power Amp for 2.4 GHz band WiFi
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/dxwifi-pa](https://github.com/psas/dxwifi-pa)
+
+Work on a high-efficiency power amp (PA) for WiFi in the 2.4 GHz band.
+
+## Software
+
+### Software Defined Radio GPS Software
+Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/gps](https://github.com/psas/gps)
+
+![](https://img.shields.io/badge/language-c-blue.svg)
+
+Data from our SDR GPS board and even other GPS projects from around the world can be decoded with this software.
+
+Working GPS on rockets is very difficult. Off-the-self solutions will not work for a number of technical and legal reasons (unless you're very rich). Instead we've worked on our own implementations of GPS in software and hardware.
+
+An electrical engineering capstone team is working to create a software-defined GPS system for LV3 and LV4. This will be used to track the motion of our rockets in flight while avoiding the need to use a commercial GPS without a speed limit. 
+
+### Rocketview
+Description coming soon.
+
+# Launch Vehicle 4 (LV4)
+LV4 is the next-generation airframe. It will be PSAS's first rocket powered by a liquid fuel engine and take us past the edge of space at 100 km.
+
+### Carbon Fiber Fuel Tank
+Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/composite-propellant-tank](https://github.com/psas/composite-propellant-tank)
+
+A team of mechanical engineering seniors is developing a composite fuel tank to be used with the liquid fuel engine on LV4. Developing this technology is instrumental to LV4's goal of reaching 100 km, since it will significantly reduce the dry mass of the rocket relative to conventional tanks. This project continues the work of three previous capstone teams to create open-hardware carbon fiber designs and procedures. 
+
+### Electric Fuel Pump
+Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/electric-feed-system](https://github.com/psas/electric-feed-system)
+
+A mechanical engineering capstone is designing an electrically driven feed system for LV4's liquid engine. 
+
+### Liquid Fuel Engine
+Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-capstone-2015](https://github.com/psas/liquid-engine-capstone-2015)
+
+In the 2015-2016 school year, a mechanical engineering capstone developed a python script to procedurally generate CAD models for a 3D printed aluminum rocket engine, based on some initial design parameters.
+This script will be used to create the 100 km LV4 engine. 
+
+### Liquid Engine Test Stand
+Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-test-stand](https://github.com/psas/liquid-engine-test-stand)
+
+The test stand that will be used for the 3D printed LV4 liquid engine.
+
+### Liquid Engine Analysis
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-analysis](https://github.com/psas/liquid-engine-analysis)
+
+![](https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg)
+
+Back of the envelope calculations and design optimization for liquid rocket engines, specifically for LV4.
+
+
+# Launch Vehicle 2 (LV2)
+LV2 is our last-generation airframe. It served as a test platform for many PSAS projects spanning 10 launches and 13 years.
 
 ## LV2 Flight Software
 ![Launch-12 Network Diagram](http://psas.github.io/Launch-12/avionics/network_diagram.svg)
@@ -88,8 +217,6 @@ We have used Raspberry Pi's with cameras on flights to record and broadcast vide
 
 
 ## LV2 Flight Hardware
-
-
 ### Electronics
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/avioncs-cad](https://github.com/psas/avionics-cad)
 
@@ -99,8 +226,25 @@ Main repository for all schematics and board designs on the rocket. This is the 
 
 To get started you'll need EAGLE CAD version 6.2 or greater.
 
+### Cylindrical Patch Antennas
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.com/psas/antennas](https://github.com/psas/antennas)
 
-## Ground Support
+Bespoke, handmade wrap-around microwave patch antennas specially for rockets.
+
+### Roll Control
+Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.com/psas/roll-control](https://github.com/psas/roll-control)
+
+![](https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg)
+
+Documentation for our canard based roll control scheme, with an undergraduate designed control system.  
+Flown successfully aboard [Launch 12](/launches/#L12). 
+### 360° Camera
+Homepage: [psas.pdx.edu/projects/360-camera/](360-camera) 
+
+For our [LV2](/rockets/#lv22) rocket we envisioned a full, wrap-around camera device that would let you replay video from the launch that would look like you were flying on the rocket!
+
+{% include youtube.html video="Dklyg5MwBL4" %}
+# Ground Support
 
 ### Telemetry Viewer
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/telemetry](https://github.com/psas/telemetry)
@@ -129,12 +273,6 @@ We have a single table with a ground support computer running all the necessary 
 
 
 
-### Launch Tower Computer
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/launch-tower](https://github.com/psas/launch-tower)
-
-![](https://img.shields.io/badge/language-KiCad-orange.svg)
-
-Ignition of the rocket is managed by a small embedded computer at the base of the launch tower. We communicate with this over a ground WiFi link to launch the rocket. It also has a hard data link to the rocket with shore power.
 
 
 
@@ -164,105 +302,13 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 Printable list of launch weekend procedures.
 
 
-## Special Projects
-We have several ongoing projects helping to build on our technical work on amateur rockets. Often these projects have implications for many different rockets we fly, rather than on particular flight or airframe.
-
-### 360° Camera
-Homepage: [psas.pdx.edu/projects/360-camera/](360-camera) 
-
-For our [LV2](/rockets/#lv22) rocket we envisioned a full, wrap-around camera device that would let you replay video from the launch that would look like you were flying on the rocket!
-
-{% include youtube.html video="Dklyg5MwBL4" %}
-
-
-### GPS
-Working GPS on rockets is very difficult. Off-the-self solutions will not work for a number of technical and legal reasons (unless you're very rich). Instead we've worked on our own implementations of GPS in software and hardware:
-
-
-
-#### Software Defined Radio GPS Board
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/gps-rf-board](https://github.com/psas/gps-rf-board) 
-
-![](https://img.shields.io/badge/language-EagleCAD-orange.svg)
-
-A circuit board flown on Launch-12 that uses a SDR approach to GPS. The firmware for the board is in the [STM32](https://github.com/psas/stm32) repo along with all the other flight firmware from that launch.
-
-In addition to the firmware this board needed a CPLD for high speed SPI communication to the SDR chip. This was stored in:
-
- - [github.com/psas/gps-cpld](https://github.com/psas/gps-cpld)
-
-
-
-#### GPS Algorithms
+### GPS Algorithms
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/gps](https://github.com/psas/gps)
 
-![](https://img.shields.io/badge/language-c-blue.svg)
-
-Data from our SDR GPS board and even other GPS projects from around the world can be decoded with this software.
 
 
-
-### Cold Gas Reaction Control System
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/reaction-control](https://github.com/psas/reaction-control)
-
-Work on a functional cold gas RCS system
-
-
-
-## Research
-We have some ongoing research topics. Sometimes we just need a place to stuff things while we work on them.
-
-### Liquid Engine Analysis
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-analysis](https://github.com/psas/liquid-engine-analysis)
-
-![](https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg)
-
-Back of the envelope calculations for liquid rocket engines.
-
-
-### LV3 Design Whitepaper
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/LV3-design](https://github.com/psas/LV3-design)
-
-![](https://img.shields.io/badge/language-markdown-yellow.svg)
-
-Paper on the design of the LV3 vehicle. <http://psas.pdx.edu/LV3-design>
-
-
-### Roll Control
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.com/psas/roll-control](https://github.com/psas/roll-control)
-
-![](https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg)
-
-Documentation for our canard based roll control scheme, with an undergraduate designed control system.  
-Flown successfully aboard [Launch 12](/launches/#L12). 
-
-
-### Cylindrical Patch Antennas
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [https://github.com/psas/antennas](https://github.com/psas/antennas)
-
-Bespoke, handmade wrap-around microwave patch antennas specially for rockets.
-
-
-
-### Long Distance WiFi
-#### Main Project, DxWiFi
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/DxWiFi](https://github.com/psas/DxWiFi)
-
-A mission objective is to be able to communicate via WiFi from space -- specifically, have data be transmitted from a COTS IEEE 802.11b module onboard the CubeSat to an inexpensive “DIY” ground station setup meant for K-12 STEM programs.
-
-We send data back to the ground from our rocket using ordinary WiFi like in your laptop or phone. We're working on pushing IEEE 802.11 to ultra long distance communication.
-
-#### Power Amp for 2.4 GHz band WiFi
-Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/dxwifi-pa](https://github.com/psas/dxwifi-pa)
-
-Work on a high-efficiency power amp (PA) for WiFi in the 2.4 GHz band.
-
-
-### Carbon Fiber
-Extremely light carbon fiber composite construction techniques
-
-
-## Meta
+# Meta
+PSAS projects about PSAS.
 
 ### psas.pdx.edu
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/psas.github.com](https://github.com/psas/psas.github.com)
