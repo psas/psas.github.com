@@ -23,7 +23,6 @@ Most of our software is built continuously to check for obvious compile errors. 
 LV3 is our current-generation airframe. It serves as a test platform for the technologies that will be used on LV4. 
 
 ## Hardware
-
 ### Carbon Fiber Airframe
 Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/lv3.0-airframe](https://github.com/psas/lv3.0-airframe)
 
@@ -65,8 +64,31 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 
 Ignition of the rocket is managed by a small embedded computer at the base of the launch tower. We communicate with this over a ground WiFi link to launch the rocket. It also has a hard data link to the rocket with shore power.
 
+### Software
+
+### Rocketview 3000 (aka Telemetry Bling)
+During the rocket's flight, it streams data from its sensors and internal state over Wi-Fi to the ground. We use the psas/telemetry repo to visualize this telemetry stream in real-time, and to make the live telemetry web-accessible from anywhere in the world.
+
+The Rocketview 3000 project is a CS capstone to improve visualizations we can use for this telemetry data, with two broad goals:
+
+1. Better logistics awareness (so we can tell at a glance whether recovery teams are in position, for example);
+1. Pretty visualizations for publicity (so strangers on the Internet will get excited about our work).
+
+
+# OreSat
+Homepage: ![github.com/oresat](/images/logos/github.png){:.icon} [oresat.org](http://oresat.org)
+OreSat is set to be Oregons first satellite, being launched from the ISS sometime between 2018 and 2020 as part of the NASA's CSLI and ELaNa programs.
+In addition to serving in a 2-unit cubesat, many of the subsystems of OreSat will be used as the flight computer for LV3 and LV4. 
+
 ### Low Gain Radio (LGR)
-Description coming soon.
+Homepage: ![github.com/oresat](/images/logos/github.png){:.icon} [github.com/oresat/low-gain-radio](https://github.com/oresat/low-gain-radio)
+The low-gain radio board provides command-and-control capabilities for OreSat, LV3, and LV4. This project began as an electrical engineering capstone in 2016.
+
+The module is centered around a microcontroller with an integrated transceiver and RF front end. Commands will be sent and received through this module. In most cases the system controller will assist in executing those commands. Communication with the system controller is done via a UART connection between the two modules.
+
+### Structure
+Homepage: ![github.com/oresat](/images/logos/github.png){:.icon} [github.com/oresat/oresat-structure](https://github.com/oresat/oresat-structure)
+The flight computer / OreSat uses an unprecedented rack and backplane system to arrange, power, and connect its subsystems. It's like a tiny server rack in a rocket. 
 
 ### Power Board
 Description coming soon.
@@ -109,9 +131,6 @@ Data from our SDR GPS board and even other GPS projects from around the world ca
 Working GPS on rockets is very difficult. Off-the-self solutions will not work for a number of technical and legal reasons (unless you're very rich). Instead we've worked on our own implementations of GPS in software and hardware.
 
 An electrical engineering capstone team is working to create a software-defined GPS system for LV3 and LV4. This will be used to track the motion of our rockets in flight while avoiding the need to use a commercial GPS without a speed limit. 
-
-### Rocketview
-Description coming soon.
 
 # Launch Vehicle 4 (LV4)
 LV4 is the next-generation airframe. It will be PSAS's first rocket powered by a liquid fuel engine and take us past the edge of space at 100 km.
