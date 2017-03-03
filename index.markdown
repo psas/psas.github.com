@@ -19,7 +19,7 @@ in the amateur classification: smaller than commercial but larger than model
 rockets. We haven't built the biggest or highest-altitude amateur rocket, but
 we hope we're building one of the most sophisticated.
 
-Meetings take place almost every **Tuesday at 7pm at PSU**. Come join us anytime!
+Meetings take place almost every **Tuesday at 7pm at PSU in room FAB 86-01**. Come join us anytime!
 See our Schedule section for detailed information on the where and when we meet.
 
 ### Recent News:
