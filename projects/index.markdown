@@ -27,7 +27,7 @@ LV3 is our current-generation airframe. It serves as a test platform for the tec
 Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/lv3.0-airframe](https://github.com/psas/lv3.0-airframe)
 
 Combining work from two mechanical engineering capstones and work from many other PSAS members, the LV3 airframe is built of modular carbon fiber tubes. 
-Rather than using solid alumium, fiberglass, or cardboard, LV3 uses a sandwhich design -- lighter than the LV2 airframe by about a factor of 5. 
+Rather than using solid alumium, fiberglass, or cardboard, LV3 uses a sandwich design -- lighter than the LV2 airframe by about a factor of 5. 
 This project has focused on making detailed and reproducible logs and procedures, for when it is adaped to LV4.
 
 ### electric Nosecone Separation Ring (eNSR)
