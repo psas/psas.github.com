@@ -135,26 +135,26 @@ An electrical engineering capstone team is working to create a software-defined 
 # Launch Vehicle 4 (LV4)
 LV4 is the next-generation airframe. It will be PSAS's first rocket powered by a liquid fuel engine and take us past the edge of space at 100 km.
 
-### Carbon Fiber Fuel Tank
+### Composite Propellant Tank
 Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/composite-propellant-tank](https://github.com/psas/composite-propellant-tank)
 
 A team of mechanical engineering seniors is developing a composite fuel tank to be used with the liquid fuel engine on LV4. Developing this technology is instrumental to LV4's goal of reaching 100 km, since it will significantly reduce the dry mass of the rocket relative to conventional tanks. This project continues the work of three previous capstone teams to create open-hardware carbon fiber designs and procedures. 
 
-### Electric Fuel Pump
+### Electric Feed System
 Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/electric-feed-system](https://github.com/psas/electric-feed-system)
 
-A mechanical engineering capstone is designing an electrically driven feed system for LV4's liquid engine. 
+A mechanical engineering capstone is designing an electric centrifugal pump based feed system for LV4's liquid engine. 
 
-### Liquid Fuel Engine
+### Liquid Engine
 Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-capstone-2015](https://github.com/psas/liquid-engine-capstone-2015)
 
 In the 2015-2016 school year, a mechanical engineering capstone developed a python script to procedurally generate CAD models for a 3D printed aluminum rocket engine, based on some initial design parameters.
-This script will be used to create the 100 km LV4 engine. 
+This script will be used to create the 100 km LV4 engine. A 2.2 kN development engine has been DMLS printed and hotfires are coming soon! 
 
 ### Liquid Engine Test Stand
 Status: active, Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-test-stand](https://github.com/psas/liquid-engine-test-stand)
 
-The test stand that will be used for the 3D printed LV4 liquid engine.
+The test stand that will be used for static testing liquid engines with thrust up to 10 kN.
 
 ### Liquid Engine Analysis
 Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/liquid-engine-analysis](https://github.com/psas/liquid-engine-analysis)
