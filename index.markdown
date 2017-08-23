@@ -102,6 +102,6 @@ the next generation of rocket scientists.
 
 If you have the ability you can make a tax-deductible donation to our project:
 
-### [Click Here To Make A Donation!](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)
+### [Click Here To Make A Donation!](https://giving.psuf.org/aerospace)
 
 
