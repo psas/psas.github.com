@@ -21,7 +21,7 @@ timezone:    America/Los_Angeles
 future:      true
 markdown:    kramdown
 kramdown:
-  toc_levels: "2,3"
+  toc_levels: "1,2,3,4,5"
 
 sass:
     style: :compressed
@@ -29,13 +29,15 @@ sass:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Rockets
-    url: /rockets/
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Get Involved
+    url: /join/
   - title: Launches
     url: /launches/
   - title: Projects
     url: /projects/
-  - title: Get Involved
-    url: /join/
-  - title: About
-    url: /about/
+  - title: Rockets
+    url: /rockets/

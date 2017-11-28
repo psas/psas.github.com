@@ -33,8 +33,6 @@ In total PSAS has built 5 rockets. Most have flown many flights over the years. 
 
 No flight sequencing computer. Separation and recovery handled by chemically timed motor ejection charge.
 
---------------------------------------------------------------------------------
-
 
 ## LV1
 
@@ -53,9 +51,6 @@ No flight sequencing computer. Separation and recovery handled by chemically tim
 Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by Interface Plate PIC
 
 
---------------------------------------------------------------------------------
-
-
 ## LV2.0
 
 ![LV2.0](/images/lv2.0.svg)
@@ -68,9 +63,6 @@ Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by In
  - Body                   | ?
  **Max Altitude**         | 5.5 km
  **Flights**              | 2: [L-3](/launches/#L3), [L-5](/launches/#L5)
-
-
---------------------------------------------------------------------------------
 
 
 ## LV2.1
@@ -87,10 +79,6 @@ Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by In
  **Flights**              | 1: [L-4](/launches/#L4)
 
 
---------------------------------------------------------------------------------
-
-
-
 ## LV2.2
 
 ![LV2.2](/images/lv2.2.svg)
@@ -100,10 +88,6 @@ Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by In
 **Airframe Materials**    | Modular aluminum body sections, fiberglass aeroshell
  **Max Altitude**         | 5.0 km
  **Flights**              | 7: [L-6](/launches/#L6), [L-7](/launches/#L7), [L-8](/launches/#L8), [L-9](/launches/#L9), [L-10](/launches/#L10), [L-11](/launches/#L11), [L-12](/launches/#L12)
-
-
-
---------------------------------------------------------------------------------
 
 
 ## LV3.0?

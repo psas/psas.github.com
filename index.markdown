@@ -19,7 +19,7 @@ in the amateur classification: smaller than commercial but larger than model
 rockets. We haven't built the biggest or highest-altitude amateur rocket, but
 we hope we're building one of the most sophisticated.
 
-Meetings take place almost every **Tuesday at 7pm at PSU**. Come join us anytime!
+Meetings take place almost every **Tuesday at 7pm at PSU in room FAB 86-01**. Come join us anytime!
 See our Schedule section for detailed information on the where and when we meet.
 
 ### Recent News:
@@ -102,6 +102,6 @@ the next generation of rocket scientists.
 
 If you have the ability you can make a tax-deductible donation to our project:
 
-### [Click Here To Make A Donation!](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)
+### [Click Here To Make A Donation!](https://giving.psuf.org/aerospace)
 
 

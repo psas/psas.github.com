@@ -10,11 +10,11 @@ Our long term goal is to put a _tiny satellite into orbit_. This is very ambitio
 
 The answer is that we focus on small, ongoing projects which move us toward our long-term goal. We build everything ourselves from the ground up and our work necessarily touches all aspects of aerospace engineering. Our rockets are in the amateur classification: smaller than commercial but larger than model rockets. We haven't built the biggest or highest-altitude amateur rocket, but we hope we're building one of the most sophisticated.
 
-Outreach is an important part of what we do as an educational project. We've done many presentations at local schools, and all our projects are open source---from CAD drawings to schematic diagrams to our software.
+Outreach is an important part of what we do as an educational project. We've done many presentations at local schools, and all our projects are open source and [available on Github](https://github.com/psas)---from CAD drawings to schematic diagrams to our software.
 
 Everyone is welcome to [help out](/join) -- be they PSU students, people from local industry, and even other student groups.
 
-PSAS is funded entirely by donations from people in the community who belove in our vision and want to contribute to aerospace education in Oregon. We're part of the Portland State Foundation which is a 501(c) 3 organization. Any donation to PSAS is fully tax-deductible.
+PSAS is funded entirely by donations from people in the community who appreciate our vision and want to contribute to aerospace education in Oregon. We're part of the Portland State Foundation which is a 501(c) 3 organization. _Any donation to PSAS is fully tax-deductible._
 
 ### [Click Here To Make A Donation!](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)
 
