@@ -29,6 +29,6 @@ If you want a more formal introduction, we have a big **Orientation for New Memb
 
 If you can't help directly, but still want to show your support, please consider giving a tax-deductible donation PSAS:
 
-### [Click Here To Make A Donation](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)
+### [Click Here To Make A Donation](https://giving.psuf.org/aerospace)
 
 Every little bit helps!
