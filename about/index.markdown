@@ -16,7 +16,7 @@ Everyone is welcome to [help out](/join) -- be they PSU students, people from lo
 
 PSAS is funded entirely by donations from people in the community who appreciate our vision and want to contribute to aerospace education in Oregon. We're part of the Portland State Foundation which is a 501(c) 3 organization. _Any donation to PSAS is fully tax-deductible._
 
-### [Click Here To Make A Donation!](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)
+### [Click Here To Make A Donation!](https://giving.psuf.org/aerospace)
 
 
 ## Schedule
