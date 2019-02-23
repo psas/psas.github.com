@@ -20,7 +20,7 @@ Most of our software is built continuously to check for obvious compile errors. 
  - [![Build Status](https://travis-ci.org/psas/psas_packet.svg)](https://travis-ci.org/psas/psas_packet) Data packet library
 
 # Launch Vehicle 3 (LV3)
-LV3 is our current-generation airframe. It serves as a test platform for the technologies that will be used on LV4. See [A test status site:](https://hbrunk.github.io/vault/)
+LV3 is our current-generation airframe. It serves as a test platform for the technologies that will be used on LV4.
 
 ## Hardware
 ### Carbon Fiber Airframe
