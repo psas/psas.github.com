@@ -54,6 +54,7 @@ Keep reading about what we're doing. Follow us on social media:
  - [facebook/pdxaerospace](https://facebook.com/pdxaerospace)
  - [YouTube](https://www.youtube.com/user/PSASRockets)
  - [Flickr](https://www.flickr.com/photos/pdxaerospace/)
+ - [Instagram](https://www.instagram.com/pdxaerospace/)
 
 Come to an intro meeting, usually held the first Tuesday of the month at 6:00pm
 (check the schedule).
@@ -65,10 +66,10 @@ things to fix!
 
 ## Upcoming Launch
 
-We're working on a new rocket to launch spring 2017. See
+We're working on a new rocket to launch summer 2019. See
 [our coutdown page](https://psas.github.io/countdown/)
 
-### Projected Launch Date: Spring/Summer 2017
+### Projected Launch Date: Summer 2019
 
 
 ## Sponsors
@@ -97,7 +98,7 @@ deductible via the Portland State Foundation's 501c3 status.
  - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
 
 
-Please don't hesitate to [get in touch](/contact/) if you're interested in helping
+Please don't hesitate to [get in touch](/join/) if you're interested in helping
 the next generation of rocket scientists.
 
 If you have the ability you can make a tax-deductible donation to our project:
