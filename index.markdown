@@ -5,6 +5,7 @@ description: "**PSAS** is a student aerospace engineering project at [Portland S
 image:
   feature: PNWAE_Banner.png
 ---
+[**Click here to learn about the Pacific Northwest Aerospace Expo, coming to PSU September 28th!**](https://www.facebook.com/events/421555775108087/)
 
 Founded by and for students, the Portland State Aerospace Society is the largest project based student group at PSU. PSAS has two main engineering projects:
 
@@ -63,7 +64,7 @@ things to fix!
 ## Upcoming Launch
 
 We're working on a new rocket to launch spring 2017. See
-[our coutdown page](https://psas.github.io/countdown/)
+[our countdown page](https://psas.github.io/countdown/)
 
 ### Projected Launch Date: Spring/Summer 2017
 
