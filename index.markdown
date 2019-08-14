@@ -3,21 +3,19 @@ layout: page
 title: Portland State Aerospace
 description: "**PSAS** is a student aerospace engineering project at [Portland State University](http://www.pdx.edu/). We're building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems in the world."
 image:
-  feature: Jun2013_launch.jpg
+  feature: PNWAE_Banner.png
 ---
+[**Click here to learn about the Pacific Northwest Aerospace Expo, coming to PSU September 28th!**](https://www.facebook.com/events/421555775108087/)
 
-Our long term goal at Portland State Aerospace Society is to put a
-[tiny satellite](http://oresat.org/) into orbit. This is very
-ambitious&mdash;there are so many technical, financial, and legal
-challenges that we may never never get there! However, this goal
-clarifies our intent and allows us to ask, "Where do we start?"
+Founded by and for students, the Portland State Aerospace Society is the largest project based student group at PSU. PSAS has two main engineering projects:
 
-The answer is that we focus on small, ongoing projects which move us toward
-our long-term goal. We build everything ourselves from the ground up and our
-work necessarily touches all aspects of aerospace engineering. Our rockets are
-in the amateur classification: smaller than commercial but larger than model
-rockets. We haven't built the biggest or highest-altitude amateur rocket, but
-we hope we're building one of the most sophisticated.
+1. Building Oregon's [first satellite](http://oresat.org/) which as part of NASA's CubeSat Launch Initiative will go to space in 2020.
+
+2. Competing in the [Base 11 Space Challenge](https://www.herox.com/spacechallenge/timeline/) to be the first university to send a liquid propelled rocket to the edge of space!
+
+Additionally we've adopted an organizational model allowing business students to engage in administrative support and business development activities. We're caling this a **Space 2.0 Business Simulator**.
+
+The purpose of these projects is to develop Portland State students into preferred talent for the aerospace and other high-tech industries.
 
 Meetings take place almost every **Tuesday at 7pm at PSU in room FAB 86-01**. Come join us anytime!
 See our Schedule section for detailed information on the where and when we meet.
@@ -66,7 +64,7 @@ things to fix!
 ## Upcoming Launch
 
 We're working on a new rocket to launch spring 2017. See
-[our coutdown page](https://psas.github.io/countdown/)
+[our countdown page](https://psas.github.io/countdown/)
 
 ### Projected Launch Date: Spring/Summer 2017
 
