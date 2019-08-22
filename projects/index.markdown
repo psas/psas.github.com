@@ -47,7 +47,7 @@ Homepage: ![github.com/psas](/images/logos/github.png){:.icon} [github.com/psas/
 
 ![](https://img.shields.io/badge/language-markdown-yellow.svg)
 
-Paper on the conceptual design of the LV3 vehicle. <http://psas.pdx.edu/LV3-design>
+Paper on the conceptual design of the LV3 vehicle. <https://psas.pdx.edu/LV3-design>
 
 
 ### Cold Gas Reaction Control System (CG-RCS)
@@ -76,7 +76,7 @@ The Rocketview 3000 project is a CS capstone to improve visualizations we can us
 
 
 # OreSat
-Homepage: ![github.com/oresat](/images/logos/github.png){:.icon} [oresat.org](http://oresat.org)
+Homepage: ![github.com/oresat](/images/logos/github.png){:.icon} [oresat.org](https://oresat.org)
 OreSat is set to be Oregons first satellite, being launched from the ISS sometime between 2018 and 2020 as part of the NASA's CSLI and ELaNa programs.
 In addition to serving in a 2-unit cubesat, many of the subsystems of OreSat will be used as the flight computer for LV3 and LV4. 
 
@@ -168,7 +168,7 @@ Back of the envelope calculations and design optimization for liquid rocket engi
 LV2 is our last-generation airframe. It served as a test platform for many PSAS projects spanning 10 launches and 13 years.
 
 ## LV2 Flight Software
-![Launch-12 Network Diagram](http://psas.github.io/Launch-12/avionics/network_diagram.svg)
+![Launch-12 Network Diagram](https://psas.github.io/Launch-12/avionics/network_diagram.svg)
 
 The flight software running on [LV2](/rockets/#LV22) is a mix of STM32F4 microcontrollers handling low level code and an Intel Atom main Flight Computer running Linux with a flight executive program written in C. Data is passed through the system via TCP/IP, either on localhost or via the physical ethernet network on the rocket.
 

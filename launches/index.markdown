@@ -30,7 +30,7 @@ List of Launches:
 
  **Airframe**           | [LV2.2](/rockets/#lv22)
  **Total Mass**         | 34.0 kg
- **Motor**              | [CTI N2501-W](http://www.thrustcurve.org/motorsearch.jsp?id=948)
+ **Motor**              | [CTI N2501-W](https://www.thrustcurve.org/motorsearch.jsp?id=948)
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
  **Avionics**           | [L-12 Diagram](https://github.com/psas/Launch-12/tree/gh-pages/avionics)
  - System Mass          | ? kg
@@ -68,7 +68,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
  **Airframe**           | [LV2.2](/rockets/#lv22)
  **Total Mass**         | 34.0 kg
- **Motor**              | [CTI N2501-W](http://www.thrustcurve.org/motorsearch.jsp?id=948)
+ **Motor**              | [CTI N2501-W](https://www.thrustcurve.org/motorsearch.jsp?id=948)
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
  **Avionics**           | [L-11 Avionics](https://github.com/psas/Launch-11/tree/gh-pages/avionics)
  - System Mass          | ? kg
@@ -94,7 +94,7 @@ This flight had a student designed control experiment that attempted to dampen t
 
  **Airframe**           | [LV2.2](/rockets/#lv22)
  **Total Mass**         | 33.7 kg
- **Motor**              | [CTI N2501-W](http://www.thrustcurve.org/motorsearch.jsp?id=948)
+ **Motor**              | [CTI N2501-W](https://www.thrustcurve.org/motorsearch.jsp?id=948)
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
  **Avionics**           | L-10 Avionics
  - System Mass          | ? kg
@@ -252,7 +252,7 @@ First Launch for the newly formed PSAS club!
 
  **Airframe**           | [LV0](/rockets/#lv0)
  **Total Mass**         | 5.53 kg
- **Motor**              | [J350](http://www.thrustcurve.org/motorsearch.jsp?id=269)
+ **Motor**              | [J350](https://www.thrustcurve.org/motorsearch.jsp?id=269)
   - Propellent Mass     | 0.36 kg
   - Propellent          | Ammonium Perchlorate Composite
   - Avg. Thrust         | 440 N

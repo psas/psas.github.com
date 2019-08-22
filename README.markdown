@@ -1,4 +1,4 @@
-# <http://psas.pdx.edu>
+# <https://psas.pdx.edu>
 
 This is the PSAS main website -- our front page!
 

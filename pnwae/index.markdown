@@ -13,9 +13,9 @@ image:
 
 Organized by student leaders involved in the PSU student branch of the American Institute of Aeronautics and Astronautics and the Portland State Aerospace Society
 
-<h1>Get tickets! <a href="http://commerce.cashnet.com/psupsas"></a> </h1>
+<h1>Get tickets! <a href="https://commerce.cashnet.com/psupsas"></a> </h1>
 
-## [Get tickets!](http://commerce.cashnet.com/psupsas)
+## [Get tickets!](https://commerce.cashnet.com/psupsas)
 
 Day 1 of the expo features professional speakers from across the nation and region who will speak on topics including:
 - The Workforce of the Future
@@ -62,7 +62,7 @@ If it's aerospace technology, we want to hear about!
 
 ### [Sign up for student presentations at the symposium!](https://docs.google.com/forms/d/e/1FAIpQLSejpsL2R4Co68spItmmBPaFio7GA5wUDFaf0wIBFUUjdfrVxA/viewform?usp=sf_link)
 
-#### Remember to [register for the Expo!](http://commerce.cashnet.com/psupsas) (required for student symposium)
+#### Remember to [register for the Expo!](https://commerce.cashnet.com/psupsas) (required for student symposium)
 
 
 Keep up to date on this upcoming event by following our social media content using #pdxaerospace or check out our [Facebook Event Page](https://www.facebook.com/events/421555775108087/) and follow PSAS on Facebook!
