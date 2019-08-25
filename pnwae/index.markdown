@@ -8,7 +8,7 @@ Preparing the next generation of aerospace talent and innovation in Oregon and W
 
 A place for aerospace industry contributors, students and professionals to share innovative projects and forge new relationships through discussion and collaboration."
 image:
-  feature: pnwae-banner_risto-edit.png
+  feature: pnwae-banner_risto-edit.svg
 ---
 
 Organized by student leaders involved in the PSU student branch of the American Institute of Aeronautics and Astronautics and the Portland State Aerospace Society
