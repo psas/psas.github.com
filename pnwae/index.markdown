@@ -25,25 +25,17 @@ Day 1 of the expo features professional speakers from across the nation and regi
 - History of Aerospace
 
 
-## Day 1 Schedule:
-<iframe id="Day1Schedule"
-  title="Day 1 Schedule"
-  width="1500"
-  height="1000"
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGpofW29fOLRSzzi1nW5wbsKej8upHWOI-Ys-pjB73dNC7p-FeuqcwqlIjjJLV31cXNAVZGTGj3XkA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
-  </iframe>
+## [Day 1 Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRGpofW29fOLRSzzi1nW5wbsKej8upHWOI-Ys-pjB73dNC7p-FeuqcwqlIjjJLV31cXNAVZGTGj3XkA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false")
+
+Click the above link to see the event schedule.
 
 
-## Day 1 Speakers
-<iframe id="Day1Speakers"
-  title="Day 1 Speakers"
-  width="800"
-  height="1000"
-  src="https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true"></iframe>
+## [Day 1 Speakers](https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true)
+
+Click the above link to see the updated list of event speakers.
 
 
 ## Day 2 of the event will be a student symposium!
-
 
 Call for Student Presentations!
 
