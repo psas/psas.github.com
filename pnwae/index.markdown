@@ -25,53 +25,14 @@ Day 1 of the expo features professional speakers from across the nation and regi
 - History of Aerospace
 
 
-## Day 1 Schedule:
-<iframe id="Day1Schedule"
-  title="Day 1 Schedule"
-  width="1500"
-  height="1000"
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGpofW29fOLRSzzi1nW5wbsKej8upHWOI-Ys-pjB73dNC7p-FeuqcwqlIjjJLV31cXNAVZGTGj3XkA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
-  </iframe>
+## [Day 1 Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRGpofW29fOLRSzzi1nW5wbsKej8upHWOI-Ys-pjB73dNC7p-FeuqcwqlIjjJLV31cXNAVZGTGj3XkA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false")
+
+Click the above link to see the event schedule.
 
 
-## Day 1 Speakers
-<iframe id="Day1Speakers"
-  title="Day 1 Speakers"
-  width="800"
-  height="1000"
-  src="https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true"></iframe>
+## [Day 1 Speakers](https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true)
 
-
-## Day 2 of the event will be a student symposium!
-
-
-Call for Student Presentations!
-
-We want to hear from students about their project efforts! We're looking for two kinds of presentations:
-
- 
-**Group / Project Presentations and Updates**
-
-Come present your group, mission, and latest updates to other students. We're looking for presentations on anything going on in the PNW, so even small projects are encouraged to present!
-
-
-**Technical Workshops**
-
-Come present on your work and give other student groups the leg up they need. We're looking for everything from pintle engine design for liquid fuel motors, tips and tricks for carbon fiber air-frame layups, best practices for aerospace vehicle telemetry, open source projects helpful in aerospace, aerospace simulation tools, 3D printing for aerospace, rules and regulations you need to know for drones and rockets, etc.
-
-If it's aerospace technology, we want to hear about!
-
-**Presentation requirements:**
-- You're a student in the PNW
-- Must be registered (it's free, and linked below) in the PNW Aerospace Expo
-- Talks can either be:
-- 25 minutes + 5 minutes Q&A
-- 50 minutes + 10 minutes Q&A
-- Presenters are expected to have presentation materials (e.g., slides, with & "show and tell" objects strongly encouraged)
-
-### [Sign up for student presentations at the symposium!](https://docs.google.com/forms/d/e/1FAIpQLSejpsL2R4Co68spItmmBPaFio7GA5wUDFaf0wIBFUUjdfrVxA/viewform?usp=sf_link)
-
-#### Remember to [register for the Expo!](https://commerce.cashnet.com/psupsas) (required for student symposium)
+Click the above link to see the updated list of event speakers.
 
 
 Keep up to date on this upcoming event by following our social media content using #pdxaerospace or check out our [Facebook Event Page](https://www.facebook.com/events/421555775108087/) and follow PSAS on Facebook!
