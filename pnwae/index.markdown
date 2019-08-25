@@ -26,11 +26,20 @@ Day 1 of the expo features professional speakers from across the nation and regi
 
 
 ## Day 1 Schedule:
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGpofW29fOLRSzzi1nW5wbsKej8upHWOI-Ys-pjB73dNC7p-FeuqcwqlIjjJLV31cXNAVZGTGj3XkA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe id="Day1Schedule"
+  title="Day 1 Schedule"
+  width="1500"
+  height="1000"
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGpofW29fOLRSzzi1nW5wbsKej8upHWOI-Ys-pjB73dNC7p-FeuqcwqlIjjJLV31cXNAVZGTGj3XkA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
+  </iframe>
 
 
 ## Day 1 Speakers
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true"></iframe>
+<iframe id="Day1Speakers"
+  title="Day 1 Speakers"
+  width="800"
+  height="1000"
+  src="https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true"></iframe>
 
 
 ## Day 2 of the event will be a student symposium!
@@ -70,7 +79,7 @@ Keep up to date on this upcoming event by following our social media content usi
 **We need volunteers** to get involved!
 Interested in speaking or getting involved with planning this awesome event? We'd love to see you start volunteering today!
 
-Email PSASorganizers@gmail.com and let us know how and why you would like to get involved!
+Email [PSASorganizers@gmail.com](PSASorganizers@gmail.com) and let us know how and why you would like to get involved!
 
 
 ## Sponsors
@@ -79,25 +88,25 @@ A **HUGE Thank You** to our sponsors:
 
 <center>
   <a href="https://www.pdx.edu/cecs/" target="_blank">
-    <img alt="Maseeh College of Engineering and Computer Science" src="images/MCECS_Logo.png">
-  </a>
-
-  <br>
-
-  <a href="https://specialaerospaceservices.com/" target="_blank">
-    <img alt="Special Aerospace Services" src="images/SAS-logo.png">
-  </a>
-
-  <br>
-
-  <a href="https://vikingpreservationproject.org/" target="_blank">
-    <img alt="Viking Mars Missions Education and Preservation" src="images/VMMEPP-logo.png">
+    <img alt="Maseeh College of Engineering and Computer Science" src="images/MCECS_Logo.png" width="800px">
   </a>
 
   <br>
 
   <a href="https://www.evergreenmuseum.org/" target="_blank">
-    <img alt="Evergreen Aviation and Space Museum" src="images/Evergreen.png">
+    <img alt="Evergreen Aviation and Space Museum" src="images/Evergreen.png" width="400px">
+  </a>
+
+  <br>
+
+  <a href="https://specialaerospaceservices.com/" target="_blank">
+    <img alt="Special Aerospace Services" src="images/SAS-logo.png" width="600px">
+  </a>
+
+  <br>
+
+  <a href="https://vikingpreservationproject.org/" target="_blank">
+    <img alt="Viking Mars Missions Education and Preservation" src="images/VMMEPP-logo.png" width="400px">
   </a>
 
 </center>
