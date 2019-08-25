@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PNW Aerospace Expo
-description: "**First Annual Public Outreach Event** 
+description: "**First Annual Public Outreach Event**
 - Saturday 9am - 6:30pm Professional Speakers
 - Sunday 10am - 3pm Student Symposium
 Preparing the next generation of aerospace talent and innovation in Oregon and Washington.
@@ -55,8 +55,8 @@ If it's aerospace technology, we want to hear about!
 **Presentation requirements:**
 - You're a student in the PNW
 - Must be registered (it's free, and linked below) in the PNW Aerospace Expo
-- Talks can either be: 
-- 25 minutes + 5 minutes Q&A 
+- Talks can either be:
+- 25 minutes + 5 minutes Q&A
 - 50 minutes + 10 minutes Q&A
 - Presenters are expected to have presentation materials (e.g., slides, with & "show and tell" objects strongly encouraged)
 
