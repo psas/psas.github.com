@@ -51,7 +51,7 @@ Keep up to date on this upcoming event by following our social media content usi
 **We need volunteers** to get involved!
 Interested in speaking or getting involved with planning this awesome event? We'd love to see you start volunteering today!
 
-Email [PSASorganizers@gmail.com](PSASorganizers@gmail.com) and let us know how and why you would like to get involved!
+Email [PSASorganizers@gmail.com](mailto:PSASorganizers@gmail.com) and let us know how and why you would like to get involved!
 
 
 ## Sponsors
