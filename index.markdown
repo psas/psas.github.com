@@ -3,7 +3,7 @@ layout: page
 title: Portland State Aerospace
 description: "**PSAS** is a student aerospace engineering project at [Portland State University](http://www.pdx.edu/). We're building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems in the world."
 image:
-  feature: pnwae-banner_risto-edit.png
+  feature: pnwae-banner_risto-edit.svg
 ---
 [**Click here to learn about the Pacific Northwest Aerospace Expo, coming to PSU September 28th!**](http://psas.pdx.edu/pnwae/)
 
