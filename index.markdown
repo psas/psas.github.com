@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portland State Aerospace Society
+title: Portland State Aerospace
 description: "**PSAS** is a student aerospace engineering project at [Portland State University](http://www.pdx.edu/). We're building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems in the world."
 image:
   feature: pnwae-banner_risto-edit.png
@@ -63,10 +63,10 @@ things to fix!
 
 ## Upcoming Launch
 
-We're working on a new rocket to launch late summer/fall 2019. See
-[our countdown page](https://psas.github.io/countdown/)
+We're working on a new rocket to launch spring 2017. See
+[our coutdown page](https://psas.github.io/countdown/)
 
-### Projected Launch Date: Summer/Fall 2019
+### Projected Launch Date: Spring/Summer 2017
 
 
 ## Sponsors
@@ -101,5 +101,3 @@ the next generation of rocket scientists.
 If you have the ability you can make a tax-deductible donation to our project:
 
 ### [Click Here To Make A Donation!](https://giving.psuf.org/aerospace)
-
-

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About PSAS
-description: "**PSAS** is a student aerospace engineering project at [Portland State University's](https://www.pdx.edu/) [Maseeh College of Engineering and Computer Science](https://www.pdx.edu/cecs/). We're a 501c3 organization through the [PSU Foundation](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)."
+description: "**PSAS** is a student aerospace engineering project at [Portland State University's](http://www.pdx.edu/) [Maseeh College of Engineering and Computer Science](http://www.pdx.edu/cecs/). We're a 501c3 organization through the [PSU Foundation](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving)."
 image:
   feature: slider_groupshot.jpg
 ---
@@ -28,11 +28,11 @@ PSAS is funded entirely by donations from people in the community who appreciate
 As seen in:
 
 {: #sponsor-list}
- - [![The Oregonian](/images/logos/oregonian.png)](https://www.oregonlive.com/portland/index.ssf/2011/04/the_portland_state_aerospace_s.html)
- - [![Wired UK](/images/logos/wired.png)](https://www.wired.co.uk/article/diy-space)
- - [![Popular Mechanics](/images/logos/popmech.png)](https://www.popularmechanics.com/space/rockets/a16722/hobbyist-rocket-space-race/)
+ - [![The Oregonian](/images/logos/oregonian.png)](http://www.oregonlive.com/portland/index.ssf/2011/04/the_portland_state_aerospace_s.html)
+ - [![Wired UK](/images/logos/wired.png)](http://www.wired.co.uk/article/diy-space)
+ - [![Popular Mechanics](/images/logos/popmech.png)](http://www.popularmechanics.com/space/rockets/a16722/hobbyist-rocket-space-race/)
  - [![Raspberry Pi](/images/logos/raspi.png)](https://www.raspberrypi.org/blog/rocket-launch-onboard-pi/)
- - [![Make Makezine](/images/logos/make.png)](https://makezine.com/2015/08/20/fantastic-3-mile-high-rocket-flight-captured-with-raspberry-pi-camera/)
+ - [![Make Makezine](/images/logos/make.png)](http://makezine.com/2015/08/20/fantastic-3-mile-high-rocket-flight-captured-with-raspberry-pi-camera/)
 
 
 ## Contact Us
@@ -46,7 +46,7 @@ As seen in:
 
 {: .list-with-icons}
  - [![github.com/psas](/images/logos/github.png) github.com/psas](https://github.com/psas)
- - [![psas](/images/psas.svg) PSAS blog](https://blog.psas.pdx.edu/)
+ - [![psas](/images/psas.svg) PSAS blog](http://blog.psas.pdx.edu/)
  - [![@pdxaerospace](/images/logos/twitter.png) twitter: @pdxaerospace](https://twitter.com/pdxaerospace)
  - [![facebook.com/pdxaerospace](/images/logos/facebook.png) facebook.com/pdxaerospace](https://www.facebook.com/pdxaerospace)
  - [![youtube.com/PSASRockets](/images/logos/youtube.png) youtube.com/PSASRockets](https://www.youtube.com/user/PSASRockets)

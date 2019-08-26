@@ -13,8 +13,8 @@ Each Capstone's purpose is to further enhance student learning while cultivating
 
 By academic year, broken out by deparment
 
- - **ECE**: [Electrical and Computer Engineering](https://www.pdx.edu/ece/)
- - **MME**: [Mechanical and Materials Engineering](https://www.pdx.edu/mme/)
+ - **ECE**: [Electrical and Computer Engineering](http://www.pdx.edu/ece/)
+ - **MME**: [Mechanical and Materials Engineering](http://www.pdx.edu/mme/)
 
 
 ### 1998–1999
