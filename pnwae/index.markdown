@@ -115,5 +115,3 @@ A **HUGE Thank You** to our sponsors:
     <img alt="PSAS Flickr" src="images/socmed_logos/flickr.png">
   </a>
 </center>
-
-7c3b326894c2f6805da8c612a06668d4298b3b9b
