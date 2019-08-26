@@ -1,4 +1,4 @@
-# <https://psas.pdx.edu>
+# <http://psas.pdx.edu>
 
 This is the PSAS main website -- our front page!
 
@@ -29,7 +29,6 @@ There are only a few pages in the site:
  - Projects
  - Get Involved (`join`)
  - About
- - PNW Aerospace Expo ('pnwae')
 
 In order to keep the URL's clean, the content of each page is in a file called
 `index.markdown` in a directory. For instance the about page is `about/index.markdown`.

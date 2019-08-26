@@ -6,12 +6,12 @@ title: Page Not Found
 # Page Not Found
 
 <div id="archivepath">
-  Try <a href="https://archive.psas.pdx.edu">archive.psas.pdx.edu</a>
+  Try <a href="http://archive.psas.pdx.edu">archive.psas.pdx.edu</a>
 </div>
 <script>
     window.onload = function() {
         URL = new URL(window.location.href)
         insert = document.getElementById("archivepath");
-        insert.innerHTML = 'Link might be <a href="https://archive.psas.pdx.edu'+URL.pathname+'">archive.psas.pdx.edu'+URL.pathname+'</a>';
+        insert.innerHTML = 'Link might be <a href="http://archive.psas.pdx.edu'+URL.pathname+'">archive.psas.pdx.edu'+URL.pathname+'</a>';
     }
 </script>
