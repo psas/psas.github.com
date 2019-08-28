@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Pacific Northwest Aerospace Expo
-description: "**First Annual Aerospace Speaker and Networking Event**  
-**Saturday, September 28th, 9:00am - 6:30pm**  "
+title: 2019 Pacific Northwest Aerospace Expo
+description: "**Saturday, September 28th, 2019, 9:00am - 6:30pm**"
 image:
   feature: pnwae-banner_risto-edit.svg
 ---
@@ -15,7 +14,11 @@ Join us for a full day of aerospace expert keynotes, round table discussions, an
 - Space Economics and Policy
 - The History of Aerospace
 
-## [Get Tickets Here!](https://commerce.cashnet.com/psupsas)
+## Registration
+
+Registration is extremely inexpensive; only $5.00 for students and $35.00 for individuals.
+
+[Please click here to purchase your ticket.](https://commerce.cashnet.com/psupsas)
 
 
 ## Speakers
