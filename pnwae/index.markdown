@@ -2,8 +2,8 @@
 layout: page
 title: PNW Aerospace Expo
 description: "**First Annual Public Outreach Event**
-- Saturday 9am - 6:30pm Professional Speakers
-- Sunday 10am - 3pm Student Symposium
+- Saturday September 28th @ 9am - 6:30pm Professional Speakers
+
 Preparing the next generation of aerospace talent and innovation in Oregon and Washington.
 
 A place for aerospace industry contributors, students and professionals to share innovative projects and forge new relationships through discussion and collaboration."
@@ -17,7 +17,7 @@ Organized by student leaders involved in the PSU student branch of the American 
 
 ## [Get tickets!](https://commerce.cashnet.com/psupsas)
 
-Day 1 of the expo features professional speakers from across the nation and region who will speak on topics including:
+The expo features professional speakers from across the nation and region who will speak on topics including:
 - The Workforce of the Future
 - Innovation & Research
 - Human Spaceflight
@@ -25,7 +25,7 @@ Day 1 of the expo features professional speakers from across the nation and regi
 - History of Aerospace
 
 
-## Day 1 Speakers
+## Speakers
 <iframe id="Day1Speakers"
   title="Day 1 Speakers"
   width="100%"
@@ -33,7 +33,7 @@ Day 1 of the expo features professional speakers from across the nation and regi
   src="https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true"></iframe>
 
 
-## Day 1 Schedule:
+## Schedule:
 <iframe id="Day1Schedule"
   title="Day 1 Schedule"
   width="100%"
