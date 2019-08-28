@@ -1,31 +1,30 @@
 ---
 layout: page
-title: PNW Aerospace Expo
-description: "**First Annual Public Outreach Event**
-- Saturday September 28th @ 9am - 6:30pm Professional Speakers
-
-Preparing the next generation of aerospace talent and innovation in Oregon and Washington.
-
-A place for aerospace industry contributors, students and professionals to share innovative projects and forge new relationships through discussion and collaboration."
+title: Pacific Northwest Aerospace Expo
+description: "**First Annual Aerospace Speaker and Networking Event**"
 image:
   feature: pnwae-banner_risto-edit.svg
 ---
 
-Organized by student leaders involved in the PSU student branch of the American Institute of Aeronautics and Astronautics and the Portland State Aerospace Society
+**Saturday, September 28th, 9:00am - 6:30pm, Professional Speakers**
 
-<h1>Get tickets! <a href="https://commerce.cashnet.com/psupsas"></a> </h1>
+Preparing the next generation of aerospace talent and innovation in Oregon and Washington.
 
-## [Get tickets!](https://commerce.cashnet.com/psupsas)
+Join us for a full day of aerospace expert keynotes, round table discussions, and networking opportunities for companies, industry professionals, and students in the Pacific Northwest! Topics include:
 
-The expo features professional speakers from across the nation and region who will speak on topics including:
 - The Workforce of the Future
 - Innovation & Research
 - Human Spaceflight
 - Space Economics and Policy
-- History of Aerospace
+- The History of Aerospace
+
+Organized by student leaders involved in the PSU student branch of the American Institute of Aeronautics and Astronautics and the Portland State Aerospace Society
+
+## [Get Tickets Here!](https://commerce.cashnet.com/psupsas)
 
 
 ## Speakers
+
 <iframe id="Day1Speakers"
   title="Day 1 Speakers"
   width="100%"
@@ -33,7 +32,8 @@ The expo features professional speakers from across the nation and region who wi
   src="https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true"></iframe>
 
 
-## Schedule:
+## Schedule
+
 <iframe id="Day1Schedule"
   title="Day 1 Schedule"
   width="100%"
