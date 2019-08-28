@@ -1,24 +1,19 @@
 ---
 layout: page
 title: Pacific Northwest Aerospace Expo
-description: "**First Annual Aerospace Speaker and Networking Event**"
+description: "**First Annual Aerospace Speaker and Networking Event**  
+**Saturday, September 28th, 9:00am - 6:30pm**  "
 image:
   feature: pnwae-banner_risto-edit.svg
 ---
 
-**Saturday, September 28th, 9:00am - 6:30pm, Professional Speakers**
-
-Preparing the next generation of aerospace talent and innovation in Oregon and Washington.
-
-Join us for a full day of aerospace expert keynotes, round table discussions, and networking opportunities for companies, industry professionals, and students in the Pacific Northwest! Topics include:
+Join us for a full day of aerospace expert keynotes, round table discussions, and networking opportunities for companies, industry professionals, and students of the Pacific Northwest! Topics include:
 
 - The Workforce of the Future
 - Innovation & Research
 - Human Spaceflight
 - Space Economics and Policy
 - The History of Aerospace
-
-Organized by student leaders involved in the PSU student branch of the American Institute of Aeronautics and Astronautics and the Portland State Aerospace Society
 
 ## [Get Tickets Here!](https://commerce.cashnet.com/psupsas)
 
@@ -53,6 +48,9 @@ Interested in speaking or getting involved with planning this awesome event? We'
 
 Email [PSASorganizers@gmail.com](mailto:PSASorganizers@gmail.com) and let us know how and why you would like to get involved!
 
+## Organizers
+
+This expo is meant to prepare the next generation of aerospace talent and innovation in Oregon and Washington, and is being run by student leaders involved in the PSU student branch of the American Institute of Aeronautics and Astronautics (AIAA) and the Portland State Aerospace Society (PSAS).
 
 ## Sponsors
 
@@ -60,7 +58,7 @@ A **HUGE Thank You** to our sponsors:
 
 <center>
   <a href="https://www.pdx.edu/cecs/" target="_blank">
-    <img alt="Maseeh College of Engineering and Computer Science" src="images/MCECS_Logo.png" width="800px">
+    <img alt="Maseeh College of Engineering and Computer Science" src="images/MCECS_Logo.png" width="400px">
   </a>
 
   <br>
@@ -72,7 +70,7 @@ A **HUGE Thank You** to our sponsors:
   <br>
 
   <a href="https://specialaerospaceservices.com/" target="_blank">
-    <img alt="Special Aerospace Services" src="images/SAS-logo.png" width="600px">
+    <img alt="Special Aerospace Services" src="images/SAS-logo.png" width="400px">
   </a>
 
   <br>
