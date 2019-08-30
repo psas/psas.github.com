@@ -81,6 +81,10 @@ A **HUGE Thank You** to our sponsors:
   <a href="https://vikingpreservationproject.org/" target="_blank">
     <img alt="Viking Mars Missions Education and Preservation" src="images/VMMEPP-logo.png" width="400px">
   </a>
+  
+  <a href="https://aiaa.org/" target="_blank">
+    <img alt="American Institute of Aeronautics and Astronautics" src="images/AIAA-logo.png" width="400px">
+  </a>
 
 </center>
 
