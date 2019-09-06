@@ -53,7 +53,7 @@ Keep reading about what we're doing. Follow us on social media:
  - [YouTube](https://www.youtube.com/user/PSASRockets)
  - [Flickr](https://www.flickr.com/photos/pdxaerospace/)
 
-Come to an intro meeting, usually held the first Tuesday of the month at 6:00pm
+Come to an intro meeting, usually held the first Tuesday of the month at 7:00pm
 (check the schedule).
 
 Jump into github and look at some our issue lists. There are always so many
@@ -95,7 +95,7 @@ deductible via the Portland State Foundation's 501c3 status.
  - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
 
 
-Please don't hesitate to [get in touch](/contact/) if you're interested in helping
+Please don't hesitate to [get in touch](/mailto:psas-info@psas.pdx.edu/) if you're interested in helping
 the next generation of rocket scientists.
 
 If you have the ability you can make a tax-deductible donation to our project:
