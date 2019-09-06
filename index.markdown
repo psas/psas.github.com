@@ -95,7 +95,7 @@ deductible via the Portland State Foundation's 501c3 status.
  - [![IBM](/images/logos/ibm.png)](http://www.ibm.com/)
 
 
-Please don't hesitate to [get in touch](/mailto:psas-info@psas.pdx.edu/) if you're interested in helping
+Please don't hesitate to <A HREF="mailto:psas-info@psas.pdx.edu">get in touch</A> if you're interested in helping
 the next generation of rocket scientists.
 
 If you have the ability you can make a tax-deductible donation to our project:
