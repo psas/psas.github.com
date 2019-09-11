@@ -91,7 +91,7 @@ A **HUGE Thank You** to our sponsors:
 
 ## Contact Us
 
- - <info@psas.pdx.edu>
+ - <psasorganizers@gmail.com>
  - [@pdxaerospace](https://twitter.com/pdxaerospace)
  - [facebook.com/pdxaerospace](https://facebook.com/pdxaerospace)
 
