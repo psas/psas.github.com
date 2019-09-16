@@ -6,7 +6,7 @@ image:
   feature: pnwae-banner_risto-edit.svg
 ---
 
-Join us for a full day of aerospace expert keynotes, round table discussions, and networking opportunities for companies, industry professionals, and students of the Pacific Northwest! Topics include:
+Join us for a full day of aerospace expert keynotes, round table lunch discussions, and networking opportunities for companies, industry professionals, and students of the Pacific Northwest! Topics include:
 
 - The Workforce of the Future
 - Innovation & Research
@@ -16,9 +16,11 @@ Join us for a full day of aerospace expert keynotes, round table discussions, an
 
 ## Registration
 
-Registration is extremely inexpensive; only $5.00 for students and $35.00 for individuals.
+Registration is extremely inexpensive*; only *$5.00* for students and *$35.00* for individuals. Tickets include a sack lunch!
 
 [Please click here to purchase your ticket.](https://commerce.cashnet.com/psupsas)
+
+*Prices will increase slightly at the door.
 
 
 ## Speakers
