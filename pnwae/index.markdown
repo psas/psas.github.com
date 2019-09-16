@@ -29,7 +29,7 @@ Registration is extremely inexpensive; only *$5.00* for students and *$35.00* fo
   title="Day 1 Speakers"
   width="100%"
   height="1000px"
-  src="https://docs.google.com/document/d/e/2PACX-1vRFQKKrDAdg2pIvhe1xaE_sSQq67Gp-ZGN4MKTI2777QWahxOdEFzpFQHtFzX-F9uuBNrZF64yJV5eK/pub?embedded=true"></iframe>
+  src="https://docs.google.com/presentation/d/e/2PACX-1vRM2qiV1ERG-vK-0Xt_ib2HRm4q8jQ4oODF7QUaxsIYHPoFEYUy1KWcm8Zet_Qcq8VEyvt0VgUzMpvw/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true""></iframe>
 
 
 ## Schedule
