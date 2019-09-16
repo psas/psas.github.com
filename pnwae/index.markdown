@@ -16,7 +16,7 @@ Join us for a full day of aerospace expert keynotes, round table lunch discussio
 
 ## Registration
 
-Registration is extremely inexpensive*; only *$5.00* for students and *$35.00* for individuals. Tickets include a sack lunch!
+Registration is extremely inexpensive; only *$5.00* for students and *$35.00* for individuals. Tickets include a sack lunch!
 
 [Please click here to purchase your ticket.](https://commerce.cashnet.com/psupsas)
 
