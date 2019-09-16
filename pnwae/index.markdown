@@ -96,24 +96,24 @@ A **HUGE Thank You** to our sponsors:
 ### Follow Us Online
 
 <center>
-  <a href="github.com/psas" target="_blank">
+  <a href="github.com/psas">
     <img alt="PSAS GitHub Projects" src="images/socmed_logos/github.png">
   </a>
-  <a href="https://www.youtube.com/user/PSASRockets" target="_blank">
+  <a href="https://www.youtube.com/user/PSASRockets">
     <img alt="PSAS YouTube" src="images/socmed_logos/youtube.png">
   </a>
-  <a href="twitter.com/pdxaerospace" target="_blank">
+  <a href="twitter.com/pdxaerospace">
     <img alt="PSAS Twitter" src="images/socmed_logos/twitter.png">
   </a>
   <br>
 
-  <a href="instagram.com/pdxaerospace" target="_blank">
+  <a href="instagram.com/pdxaerospace">
     <img alt="PSAS Instagram" src="images/socmed_logos/instagram.png">
   </a>
-  <a href="facebook.com/pdxaerospace" target="_blank">
+  <a href="facebook.com/pdxaerospace">
     <img alt="PSAS Facebook" src="images/socmed_logos/facebook.png">
   </a>
-  <a href="flickr.com/photos/pdxaerospace" target="_blank">
+  <a href="flickr.com/photos/pdxaerospace">
     <img alt="PSAS Flickr" src="images/socmed_logos/flickr.png">
   </a>
 </center>
