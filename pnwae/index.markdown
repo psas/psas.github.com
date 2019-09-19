@@ -42,6 +42,9 @@ Registration is extremely inexpensive; only *$5.00* for students and *$35.00* fo
 
 Keep up to date on this upcoming event by following our social media content using #pdxaerospace or check out our [Facebook Event Page](https://www.facebook.com/events/421555775108087/) and follow PSAS on Facebook!
 
+## Parking
+We are not able to provide dedicated parking for the event, however there are a number of parking garages in and near the Portland State University campus. Visit the [Portland State Parking Information Page](https://www.pdx.edu/transportation/hourly-visitor-parking) for campus parking details
+
 
 **We need volunteers** to get involved!
 Interested in speaking or getting involved with planning this awesome event? We'd love to see you start volunteering today!
