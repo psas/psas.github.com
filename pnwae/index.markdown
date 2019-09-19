@@ -27,6 +27,7 @@ Registration is extremely inexpensive; only *$5.00* for students and *$35.00* fo
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRM2qiV1ERG-vK-0Xt_ib2HRm4q8jQ4oODF7QUaxsIYHPoFEYUy1KWcm8Zet_Qcq8VEyvt0VgUzMpvw/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+
 ## Schedule
 
 <iframe id="Day1Schedule"
@@ -45,8 +46,15 @@ Keep up to date on this upcoming event by following our social media content usi
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsnWAr80BpzeOV9YxKoHlNJ3VEc15faci5b2SyyhFYQ9fGQ_gACkkLUA-QfZVVM31J5pl2STba8WN5/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+
+## Location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.05243986344!2d-122.68323108444103!3d45.509022979101466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a146a507e2f%3A0x5f2ee2a766cb0c6e!2sPSU%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1568859348758!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
 ## Parking
+
 We are not able to provide dedicated parking for the event, however there are a number of parking garages in and near the Portland State University campus. Visit the [Portland State Parking Information Page](https://www.pdx.edu/transportation/hourly-visitor-parking) for campus parking details
+
 
 ## Organizers
 
