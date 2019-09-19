@@ -39,11 +39,18 @@ Registration is extremely inexpensive; only *$5.00* for students and *$35.00* fo
 
 #### Remember to [register for the Expo!](https://commerce.cashnet.com/psupsas)
 
-
 Keep up to date on this upcoming event by following our social media content using #pdxaerospace or check out our [Facebook Event Page](https://www.facebook.com/events/421555775108087/) and follow PSAS on Facebook!
+
+## Event Exhibitors
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsnWAr80BpzeOV9YxKoHlNJ3VEc15faci5b2SyyhFYQ9fGQ_gACkkLUA-QfZVVM31J5pl2STba8WN5/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Parking
 We are not able to provide dedicated parking for the event, however there are a number of parking garages in and near the Portland State University campus. Visit the [Portland State Parking Information Page](https://www.pdx.edu/transportation/hourly-visitor-parking) for campus parking details
+
+## Organizers
+
+This expo is meant to prepare the next generation of aerospace talent and innovation in Oregon and Washington, and is being run by student leaders involved in the PSU student branch of the American Institute of Aeronautics and Astronautics (AIAA) and the Portland State Aerospace Society (PSAS).
 
 
 **We need volunteers** to get involved!
@@ -51,9 +58,6 @@ Interested in speaking or getting involved with planning this awesome event? We'
 
 Email [PSASorganizers@gmail.com](mailto:PSASorganizers@gmail.com) and let us know how and why you would like to get involved!
 
-## Organizers
-
-This expo is meant to prepare the next generation of aerospace talent and innovation in Oregon and Washington, and is being run by student leaders involved in the PSU student branch of the American Institute of Aeronautics and Astronautics (AIAA) and the Portland State Aerospace Society (PSAS).
 
 ## Sponsors
 
