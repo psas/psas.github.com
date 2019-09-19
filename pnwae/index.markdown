@@ -3,7 +3,7 @@ layout: page
 title: 2019 Pacific Northwest Aerospace Expo
 description: "**Saturday, September 28th, 2019, 9:00am - 6:30pm**"
 image:
-  feature: pnwae-banner_risto-edit.svg
+  feature: PNWAE_banner2.png
 ---
 
 Join us for a full day of aerospace expert keynotes, round table lunch discussions, and networking opportunities for companies, industry professionals, and students of the Pacific Northwest! Topics include:
