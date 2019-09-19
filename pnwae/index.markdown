@@ -43,7 +43,7 @@ Keep up to date on this upcoming event by following our social media content usi
 
 ## Event Exhibitors
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsnWAr80BpzeOV9YxKoHlNJ3VEc15faci5b2SyyhFYQ9fGQ_gACkkLUA-QfZVVM31J5pl2STba8WN5/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsnWAr80BpzeOV9YxKoHlNJ3VEc15faci5b2SyyhFYQ9fGQ_gACkkLUA-QfZVVM31J5pl2STba8WN5/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Parking
 We are not able to provide dedicated parking for the event, however there are a number of parking garages in and near the Portland State University campus. Visit the [Portland State Parking Information Page](https://www.pdx.edu/transportation/hourly-visitor-parking) for campus parking details
