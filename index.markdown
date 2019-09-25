@@ -63,10 +63,10 @@ things to fix!
 
 ## Upcoming Launch
 
-We're working on a new rocket to launch in October 2019. See
+We're working on a new rocket to launch in April 2020. See
 [our countdown page](https://psas.github.io/countdown/)
 
-### Projected Launch Date: October 2019
+### Projected Launch Date: April 2020
 
 
 ## Sponsors
