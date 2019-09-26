@@ -20,7 +20,7 @@ Registration is extremely inexpensive; only *$5.00* for students and *$35.00* fo
 
 [Please click here to purchase your ticket.](https://commerce.cashnet.com/psupsas)
 
-*Prices will increase slightly at the door.
+*Prices will increase at the door to $10.00 for students and $50 for individuals.
 
 
 ## Speakers
