@@ -75,24 +75,27 @@ A **HUGE Thank You** to our sponsors:
   <a href="https://www.pdx.edu/cecs/" target="_blank">
     <img alt="Maseeh College of Engineering and Computer Science" src="images/MCECS_Logo.png" width="400px">
   </a>
-
   <br>
 
   <a href="https://www.evergreenmuseum.org/" target="_blank">
     <img alt="Evergreen Aviation and Space Museum" src="images/Evergreen.png" width="400px">
   </a>
-
   <br>
 
   <a href="https://specialaerospaceservices.com/" target="_blank">
     <img alt="Special Aerospace Services" src="images/SAS-logo.png" width="400px">
   </a>
+  <br>
 
+  <a href="https://sightlineapplications.com/" target="_blank">
+    <img alt="SightLine Applications" src="images/Sightline Logo.png" width="400px">
+  </a>
   <br>
 
   <a href="https://vikingpreservationproject.org/" target="_blank">
     <img alt="Viking Mars Missions Education and Preservation" src="images/VMMEPP-logo.png" width="400px">
   </a>
+  <br>
   
   <a href="https://aiaa.org/" target="_blank">
     <img alt="American Institute of Aeronautics and Astronautics" src="images/AIAA-logo.png" width="400px">
