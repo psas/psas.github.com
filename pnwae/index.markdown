@@ -88,7 +88,7 @@ A **HUGE Thank You** to our sponsors:
   <br>
 
   <a href="https://sightlineapplications.com/" target="_blank">
-    <img alt="SightLine Applications" src="images/Sightline Logo.png" width="400px">
+    <img alt="SightLine Applications" src="images/Sightline-Logo.png" width="400px">
   </a>
   <br>
 
