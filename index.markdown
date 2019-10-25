@@ -3,10 +3,8 @@ layout: page
 title: Portland State Aerospace
 description: "**PSAS** is a student aerospace engineering project at [Portland State University](http://www.pdx.edu/). We're building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems in the world."
 image:
-  feature: pnwae-banner_risto-edit.svg
+  feature: LV4 Diagram V3.svg
 ---
-[**Click here to learn about the Pacific Northwest Aerospace Expo, coming to PSU September 28th!**](http://psas.pdx.edu/pnwae/)
-
 Founded by and for students, the Portland State Aerospace Society is the largest project based student group at PSU. PSAS has two main engineering projects:
 
 1. Building Oregon's [first satellite](http://oresat.org/) which as part of NASA's CubeSat Launch Initiative will go to space in 2020.
