@@ -3,7 +3,7 @@ layout: page
 title: Portland State Aerospace
 description: "**PSAS** is a student aerospace engineering project at [Portland State University](http://www.pdx.edu/). We're building ultra-low-cost, open source rockets that feature some of the most sophisticated amateur rocket avionics systems in the world."
 image:
-  feature: LV4 Diagram V3.svg
+  feature: LV4-Diagram_V3.svg
 ---
 Founded by and for students, the Portland State Aerospace Society is the largest project based student group at PSU. PSAS has two main engineering projects:
 
