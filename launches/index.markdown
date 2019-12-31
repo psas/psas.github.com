@@ -12,18 +12,66 @@ List of Launches:
 {:toc}
 
 
-{: #L13}
-## L-13?
-
+{: #L14}
+## **L-14** — Upcoming
 #### [Launch countdown](/countdown/)
+#### Launch Data:
 
+ **Airframe**           | [LV3.1](/rockets/#lv31)
+ **Total Mass**         | TBD
+ **Motor**              | TBD
+ **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
+ **Avionics**           | 
+ - System Mass          | TBD
+ - Flight Computer      | Altus TeleMetrum
+ - Telemetry            | TBD
+ - Payload              | TBD
+ **Altitude**           | ~5 km
+ **Peak Velocity**      | TBD
+ **Result**             | TBD
 
+{: #L13}
+## **L-13** — May 22<sup>nd</sup>, 2018
+![L13 Patch](images/L13_patch.svg)
 
+#### Launch Data:
 
+ **Airframe**           | [LV3.0](/rockets/#lv30)
+ **Total Mass**         | 34.9 kg
+ **Motor**              | [21062-O3400-IM-P](http://www.thrustcurve.org/motorsearch.jsp?id=1006)
+ **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
+ **Avionics**           | 
+ - System Mass          | 2.21 kg
+ - Flight Computer      | Altus TeleMetrum
+ - Telemetry            | SD video over 5945 MHz
+ - Payload              | [360-degree spherical camera](https://github.com/psas/lv3.0-camera-ring)
+ **Recovery**           | electromechanical and pyrotechnic
+ **Altitude**           | ~1.5 km
+ **Peak Velocity**      | ~520 m/s (Mach 1.6)
+ **Result**             | The vehicle experienced [rapid unscheduled disassembly](https://youtu.be/aJjrpV61EVA?t=13474).
+
+This was our first launch in almost 3 years since retiring LV2. 
+LV3.0 was a test of the carbon fiber airframe technology we'd been developing in pursuit of a 100 km launch.
+
+During our first launch attempt on April 22<sup>nd</sup>, there was a problem with the launch lugs while loading the rocket onto the rail. 
+Rather than trying to patch together the problem, we scrubbed the launch and switched to a more traditional lug design.
+
+Launch 13 used a [new recovery system](https://github.com/psas/lv3.0-recovery) with a mechanical nosecone separator to deploy the drogue chute.
+This replaced the hand-made black powder separator that was used in previous launches. 
+
+This launch also included a fully-spherical 360-degree video module, capable of viewing the nose and tail of the rocket.
+Additionally, one of the cameras was used to stream live video to our ground station and [YouTube livestream](https://youtu.be/aJjrpV61EVA?t=13474).
+Unfortunately, the SD cards recording the video for all 9 cameras vibrated loose during launch. 
+Everything but the livestream was lost.
+
+The airframe buckled 5 seconds into the flight, during its highest speed.
+
+![photo credit: Gary Goncher](images/L13_buckling.jpg){: width="300px"}
+
+{% include youtube.html video="aJjrpV61EVA?t=13474" %}
 
 {: #L12}
 ## **L-12** — July 19<sup>th</sup>, 2015
-
 ![L12 Patch](images/L12_patch.svg)
 
 #### Launch Data:
@@ -47,9 +95,9 @@ Launch 12 was similar to the Launch-11 flight, though with many improvements to 
 
 In 2015 PSAS participated in Intel's 'NUC Challenge' which allowed us to build an awesome permanent [mission control table](https://github.com/psas/flight-director-table) with many screens and a telemetry & control server.
 
-On board this rocket were two Raspberry Pi computers attached to HD video cameras. The intention was to stream video live, though the camera dedicated to streaming failed minutes before launch so we flew without it. The failure appears to have been withe the ribbon cable attaching the camera to the Raspi. Also launched was an important experimental GPS module built by PSAS. The rocket recorded raw radio signals from GPS satellites while in flight in order to better understand the effects of rocket launches on GPS technology.
+On board this rocket were two Raspberry Pi computers attached to HD video cameras. The intention was to stream video live, though the camera dedicated to streaming failed minutes before launch so we flew without it. The failure appears to have been with the ribbon cable attaching the camera to the Raspi. Also launched was an important experimental GPS module built by PSAS. The rocket recorded raw radio signals from GPS satellites while in flight in order to better understand the effects of rocket launches on GPS technology.
 
-This flight had a student designed control experiment that attempted to dampen the spin of the rocket so camera views on the rocket stay steady for the whole flight. This kept the spin rate to under 80 &deg;/s, as contrast to the previous flight wich saw peaks close to 1000 &deg;/s!
+This flight had a student designed control experiment that attempted to dampen the spin of the rocket so camera views on the rocket stay steady for the whole flight. This kept the spin rate to under 80 &deg;/s, as contrast to the previous flight which saw peaks close to 1000 &deg;/s!
 
 [Launch 12 photo gallery on Flickr](https://www.flickr.com/photos/pdxaerospace/sets/72157651608105790)
 
