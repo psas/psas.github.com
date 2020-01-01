@@ -16,7 +16,7 @@ List of rockets:
 
 LV stands for **L**aunch **V**ehicle, just a fancy name for "rocket". Each vehicle is numbered in order that we built it. The major number are the class of rocket. For instance every "LV2" rocket is of the same design (with minor adjustments or additions). Each minor division is a build of that design.
 
-In total PSAS has built 5 rockets. Most have flown many flights over the years. LV2.3 was our work horse rocket for 7 years.
+In total PSAS has built 7 rockets. Most have flown many flights over the years. LV2.3 was our work horse rocket for 7 years.
 
 ## LV0
 
@@ -90,6 +90,20 @@ Flight sequencing handled by Flight Computer PIC, 2 stage recovery handled by In
  **Flights**              | 7: [L-6](/launches/#L6), [L-7](/launches/#L7), [L-8](/launches/#L8), [L-9](/launches/#L9), [L-10](/launches/#L10), [L-11](/launches/#L11), [L-12](/launches/#L12)
 
 
-## LV3.0?
+## LV3.0
+![LV3.0](/images/lv3.0.svg)
 
-What will the next rocket be like? [Preliminary LV3 design](/LV3-design/).
+**Length**                | 3.88 m
+**Empty Mass**            | ~18 kg
+**Airframe Materials**    | Modular carbon fiber sections, fiberglass radio section, aluminum pass-through sections
+ **Max Altitude**         | ~1.5 km
+ **Flights**              | 1: [L-13](/launches/#L13)
+
+## LV3.1
+![LV3.1](/images/lv3.1.svg)
+
+**Length**                | TBD m
+**Empty Mass**            | TBD kg
+**Airframe Materials**    | Modular carbon fiber sections, fiberglass radio section, aluminum pass-through sections
+ **Max Altitude**         | TBD km
+ **Flights**              | 1: [L-14](/launches/#L14)

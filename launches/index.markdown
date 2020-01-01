@@ -14,6 +14,7 @@ List of Launches:
 
 {: #L14}
 ## **L-14** — Upcoming
+![L14 Patch](https://raw.githubusercontent.com/psas/Launch-14/dev_joe/patch/L-14_patch.svg?sanitize=true)
 #### [Launch countdown](/countdown/)
 #### Launch Data:
 
@@ -50,23 +51,24 @@ List of Launches:
  **Peak Velocity**      | ~520 m/s (Mach 1.6)
  **Result**             | The vehicle experienced [rapid unscheduled disassembly](https://youtu.be/aJjrpV61EVA?t=13474).
 
-This was our first launch in almost 3 years since retiring LV2. 
+This was our first launch since retiring LV2 almost 3 years earlier. 
 LV3.0 was a test of the carbon fiber airframe technology we'd been developing in pursuit of a 100 km launch.
+
+Launch 13 used a [new recovery system](https://github.com/psas/lv3.0-recovery) with a mechanical nosecone separator to deploy the drogue chute.
+This replaced the hand-made black powder separator that was used in previous launches. 
+This launch also included a fully-spherical 360-degree video module, capable of viewing the nose and tail of the rocket.
+Additionally, one of the cameras was used to stream live video to our ground station and [YouTube livestream](https://youtu.be/aJjrpV61EVA?t=13474).
 
 During our first launch attempt on April 22<sup>nd</sup>, there was a problem with the launch lugs while loading the rocket onto the rail. 
 Rather than trying to patch together the problem, we scrubbed the launch and switched to a more traditional lug design.
 
-Launch 13 used a [new recovery system](https://github.com/psas/lv3.0-recovery) with a mechanical nosecone separator to deploy the drogue chute.
-This replaced the hand-made black powder separator that was used in previous launches. 
-
-This launch also included a fully-spherical 360-degree video module, capable of viewing the nose and tail of the rocket.
-Additionally, one of the cameras was used to stream live video to our ground station and [YouTube livestream](https://youtu.be/aJjrpV61EVA?t=13474).
+The airframe buckled 5 seconds into the flight at its highest speed.
+The coupling ring design, designed only for compressive loads, was identified as the root cause since it reduced the rigidity of the airframe.
 Unfortunately, the SD cards recording the video for all 9 cameras vibrated loose during launch. 
-Everything but the livestream was lost.
-
-The airframe buckled 5 seconds into the flight, during its highest speed.
+Except for the livestream, all the video was lost.
 
 ![photo credit: Gary Goncher](images/L13_buckling.jpg){: width="300px"}
+![photo credit: Gary Goncher](images/garyAnimation_alligned.gif){: width="300px"}
 
 {% include youtube.html video="aJjrpV61EVA?t=13474" %}
 
