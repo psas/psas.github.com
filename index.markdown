@@ -66,6 +66,8 @@ We're working on a new rocket to launch in April 2020. See
 
 ### Projected Launch Date: April 2020
 
+## Schedule
+{% include calendar.html %}
 
 ## Sponsors
 

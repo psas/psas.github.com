@@ -25,7 +25,7 @@ This is also the best time to find us on our [Google Hangout](http://psas.pdx.ed
 If you want a more formal introduction, we have a big **Orientation for New Members** meeting at the start of each quarter -- usually in January, April, June and October. Search the schedule below for orientation meetings to find the next one. These orientation meetings are great place to start -- we'll give you an overview of the group, our goals, and help you figure out where you can fit in!
 
 ## Schedule
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=psas.rockets%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="680" height="500" frameborder="0" scrolling="no"></iframe>
+{% include calendar.html %}
 
 ## Donate!
 
