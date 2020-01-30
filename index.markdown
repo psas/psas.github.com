@@ -81,7 +81,7 @@ deductible via the Portland State Foundation's 501c3 status.
 
 {: #sponsor-list}
  - [![NASA](/images/logos/nasa.png)](http://spacegrant.oregonstate.edu/)
- - [![ANSYS](/images/logos/ANSYS_logo.png)](https://ansys.com)
+ - [![ANSYS](/images/logos/ANSYS_logo.jpg)](https://ansys.com)
  - [![Solidworks](/images/logos/solidworks.png)](http://solidworks.com)
  - [![github](/images/logos/github.png)](https://github.com)
  - [![NWEMC](/images/logos/nwemc.png)](http://www.nwemc.com/)
