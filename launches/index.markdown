@@ -169,6 +169,7 @@ This flight had a student designed control experiment that attempted to dampen t
  **Motor**              | ?
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
  **Altitude**           | ? km
+ **Result**             | Fail: Motor over-pressurized, failing the casing just after ignition. Technically flew, but only a few feet. The vehicle itself was unharmed.
 
 
 {: #L8}
@@ -177,10 +178,11 @@ This flight had a student designed control experiment that attempted to dampen t
 #### Launch Data:
 
  **Airframe**           | [LV2.2](/rockets/#lv22)
- **Total Mass**         | ? kg
- **Motor**              | ?
+ **Total Mass**         | 30.57 kg simulated
+ **Motor**              | [CTI N2850](http://www.thrustcurve.org/motorsearch.jsp?id=764) simulated
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
- **Altitude**           | ? km
+ **Altitude**           | 4.6 km
+ **Result**             | Success! Fixed the roll issue with a spinning "fin can". Near perfect flight.
 
 
 {: #L7}
@@ -189,10 +191,12 @@ This flight had a student designed control experiment that attempted to dampen t
 #### Launch Data:
 
  **Airframe**           | [LV2.2](/rockets/#lv22)
- **Total Mass**         | ? kg
- **Motor**              | ?
+ **Total Mass**         | 30.8 kg
+ **Motor**              | [AeroTech N2000W](http://www.thrustcurve.org/motorsearch.jsp?id=447)
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
- **Altitude**           | ? km
+ **Altitude**           | 4.8 km
+ **Peak Velocity**      | ~375 m/s (Mach 1.10)
+ **Result**             | Launch and recovery were flawless. The roll control failed to maintain control.
 
 
 {: #L6}
@@ -205,6 +209,7 @@ This flight had a student designed control experiment that attempted to dampen t
  **Motor**              | ?
  **Launch Site**        | [Brothers, OR](https://www.google.com/maps/place/43%C2%B047'45.2%22N+120%C2%B039'05.8%22W/@43.7960012,-120.663532,4369m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0)
  **Altitude**           | ? km
+ **Result**             | Success!
 
 
 
