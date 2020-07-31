@@ -36,7 +36,7 @@ As seen in:
 
 ## Contact Us
 
- - <psas-info@psas.pdx.edu>
+ - <aerospace+join@pdx.edu>
  - [@pdxaerospace](https://twitter.com/pdxaerospace)
  - [facebook.com/pdxaerospace](https://facebook.com/pdxaerospace)
 
